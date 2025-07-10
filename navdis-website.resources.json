@@ -1,4 +1,5 @@
-[{
+[
+  {
   "_id": {
     "$oid": "5c181d900687440a74bf933c"
   },
@@ -1048,7 +1049,8 @@
     "image": "images\\portfolio\\logo.png",
     "categories": "others"
   }
-],
+]
+},
 {
   "_id": { "$oid": "64b7f1a10ec2cd37d03e0e34" },
   "name": "project",
@@ -2089,4 +2091,4 @@
     "\\images\\project\\59\\5.jpg"
   ]
 }
-}]
+]
