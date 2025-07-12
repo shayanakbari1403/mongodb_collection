@@ -164,8 +164,8 @@
   {
     "title": "نوسازی و بهسازی محور شاهرود - میاندشت (EPC)",
     "subtitle": "1387",
-    "url": "project/44",
-    "image": "images\\project\\44\\1.jpg",
+    "url": "",
+    "image": "images\\portfolio\\logo.png",
     "categories": "road"
   },
   {
@@ -248,8 +248,8 @@
   {
     "title": "احداث جاده پیان (راه دسترسی سدهای حوزه کارون)",
     "subtitle": "1382",
-    "url": "project/56",
-    "image": "images\\project\\56\\1.jpg",
+    "url": "",
+    "image": "images\\portfolio\\logo.png",
     "categories": "road"
   },
   {
@@ -269,8 +269,8 @@
   {
     "title": "احداث عوامل پروازی فرودگاه بین‌المللی لارستان",
     "subtitle": "1375",
-    "url": "project/59",
-    "image": "images\\project\\59\\1.jpg",
+    "url": "",
+    "image": "images\\portfolio\\logo.png",
     "categories": "others"
   }
 ]
@@ -940,8 +940,8 @@
   {
     "title": "Rehabilitation and Improvement of Shahroud–Meyandasht Corridor (EPC)",
     "subtitle": "2008",
-    "url": "project/44",
-    "image": "images\\project\\44\\1.jpg",
+    "url": "",
+    "image": "images\\portfolio\\logo.png",
     "categories": "road"
   },
   {
@@ -1024,8 +1024,8 @@
   {
     "title": "Piyan Road (Access to Karun Basin Dams)",
     "subtitle": "2003",
-    "url": "project/56",
-    "image": "images\\project\\56\\1.jpg",
+    "url": "",
+    "image": "images\\portfolio\\logo.png",
     "categories": "road"
   },
   {
@@ -1045,8 +1045,8 @@
   {
     "title": "Runway and Taxiway Construction at Lar International Airport",
     "subtitle": "1996",
-    "url": "project/59",
-    "image": "images\\project\\59\\1.jpg",
+    "url": "",
+    "image": "images\\portfolio\\logo.png",
     "categories": "others"
   }
 ]
