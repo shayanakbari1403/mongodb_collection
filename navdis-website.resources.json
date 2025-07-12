@@ -1,4 +1,5 @@
-[{
+[
+  {
   "_id": {
     "$oid": "5c181d900687440a74bf933c"
   },
@@ -90,260 +91,189 @@
     }
   ],
   "list": [
-    {
-      "title": "راه ميناب - سندرك",
-      "subtitle": "1362",
-      "url": "",
-      "image": "images\\portfolio\\logo.png",
-      "categories": "road"
-    },
-    {
-      "title": "مجتمع مايكرو ويو PC گرمسار",
-      "subtitle": "1368",
-      "url": "",
-      "image": "images\\portfolio\\logo.png",
-      "categories": "other"
-    },
-    {
-      "title": "محوطه سازي كارخانجات سرب وروي",
-      "subtitle": "1369",
-      "url": "",
-      "image": "images\\portfolio\\logo.png",
-      "categories": "other"
-    },
-    {
-      "title": "سد باطله موته ",
-      "subtitle": "1371",
-      "url": "",
-      "image": "images\\portfolio\\logo.png",
-      "categories": "other"
-    },
-    {
-      "title": " زیرسازی بزرگراه قزوين - زنجان",
-      "subtitle": "1373",
-      "url": "",
-      "image": "images\\portfolio\\logo.png",
-      "categories": "road"
-    },
-    {
-      "title": " راه ازنا - شازند",
-      "subtitle": "1374",
-      "url": "project/6",
-      "image": "images\\portfolio\\6.jpg",
-      "categories": "road bridge"
-    },
-    {
-      "title": "باند و عوامل پروازی فرودگاه بين المللي لارستان",
-      "subtitle": "1375",
-      "url": "project/7",
-      "image": "images\\portfolio\\7.jpg",
-      "categories": "other"
-    },
-    {
-      "title": "راه ارتباطي  و پل زير گذر صنايع فرو آلياژي ",
-      "subtitle": "1378",
-      "url": "",
-      "image": "images\\portfolio\\logo.png",
-      "categories": "road bridge"
-    },
-    {
-      "title": " راه سيرجان - كرمان",
-      "subtitle": "1379",
-      "url": "project/9",
-      "image": "images\\portfolio\\9.jpg",
-      "categories": "road bridge"
-    },
-    {
-      "title": "زيرسازي راه آهن مشهد - بافق ",
-      "subtitle": "1380",
-      "url": "project/10",
-      "image": "images\\portfolio\\10.jpg",
-      "categories": "railway bridge"
-    },
-    {
-      "title": "جاده پيان",
-      "subtitle": "1382",
-      "url": "project/11",
-      "image": "images\\portfolio\\11.jpg",
-      "categories": "road"
-    },
-    {
-      "title": "راه سيرجان - كرمان",
-      "subtitle": "1383",
-      "url": "project/12",
-      "image": "images\\portfolio\\12.jpg",
-      "categories": "bridge"
-    },
-    {
-      "title": "راه يزد - ابركوه- سورمق",
-      "subtitle": "1383",
-      "url": "project/13",
-      "image": "images\\portfolio\\13.jpg",
-      "categories": "road bridge"
-    },
-    {
-      "title": "زير سازي راه آهن نظاميه-مياندشت",
-      "subtitle": "1383",
-      "url": "project/14",
-      "image": "images\\portfolio\\14.jpg",
-      "categories": "railway"
-    },
-    {
-      "title": "تقاطعهاي قدمگاه ،فرودگاه و مالك آباد در استان مرکزی",
-      "subtitle": "1386",
-      "url": "images\\portfolio\\logo.png",
-      "image": "images\\portfolio\\15.jpg",
-      "categories": "bridge"
-    },
-    {
-      "title": "روکش آسفالت راه ازنا - شازند",
-      "subtitle": "1386",
-      "url": "",
-      "image": "images\\portfolio\\logo.png",
-      "categories": "road"
-    },
-    {
-      "title": "بزرگراه كرمانشاه  -  مياندوآب ",
-      "subtitle": "1386",
-      "url": "project/17",
-      "image": "images\\portfolio\\17.jpg",
-      "categories": "road bridge"
-    },
-    {
-      "title": "راه دسترسي و خط لوله انتقال آب سد تالوار به شهر همدان",
-      "subtitle": "1386",
-      "url": "project/18",
-      "image": "images\\portfolio\\18.jpg",
-      "categories": "pipeline"
-    },
-    {
-      "title": "راههاي دسترسي سد داريان",
-      "subtitle": "1387",
-      "url": "project/19",
-      "image": "images\\portfolio\\19.jpg",
-      "categories": "road bridge tunnel"
-    },
-    {
-      "title": "زير سازي راه آهن غرب كشور",
-      "subtitle": "1388",
-      "url": "project/20",
-      "image": "images\\portfolio\\20.jpg",
-      "categories": "railway bridge tunnel"
-    },
-    {
-      "title": "راه دسترسی سد بختیاری",
-      "subtitle": "1389",
-      "url": "project/21",
-      "image": "images\\portfolio\\21.jpg",
-      "categories": "road"
-    },
-    {
-      "title": "بزرگراه تفت - ابرکوه- سورمق",
-      "subtitle": "1390",
-      "url": "",
-      "image": "images\\portfolio\\logo.png",
-      "categories": "road"
-    },
-    {
-      "title": " راه سد سردشت",
-      "subtitle": "1392",
-      "url": "project/23",
-      "image": "images\\portfolio\\23.jpg",
-      "categories": "road bridge"
-    },
-    {
-      "title": "محوطه سرچاهی در میدان آزادگان جنوبی",
-      "subtitle": "1393",
-      "url": "project/24",
-      "image": "images\\portfolio\\24.jpg",
-      "categories": "other"
-    },
-    {
-      "title": "زیرسازه و روسازه و عرشه بتنی قطار شهري کرمانشاه",
-      "subtitle": "1393",
-      "url": "project/25",
-      "image": "images\\portfolio\\25.jpg",
-      "categories": "railway bridge"
-    },
-    {
-      "title": "باند دوم بزرگراه بابامیدان-گچساران-بهبهان",
-      "subtitle": "1393",
-      "url": "",
-      "image": "images\\portfolio\\logo.png",
-      "categories": "road"
-    },
-    {
-      "title": "عملیات تکمیلی قطعه D‌ منطقه یک آزاد راه تهران-شمال",
-      "subtitle": "1394",
-      "url": "project/27",
-      "image": "images\\portfolio\\27.jpg",
-      "categories": "road bridge tunnel"
-    },
-    {
-      "title": "شمع ریزی زمین نیروگاه غرب کارون",
-      "subtitle": "1394",
-      "url": "project/28",
-      "image": "images\\portfolio\\28.png",
-      "categories": "other"
-    },
-    {
-      "title": "راه جناح راست سد سردشت",
-      "subtitle": "1394",
-      "url": "",
-      "image": "images\\portfolio\\logo.png",
-      "categories": "road"
-    },
-    {
-      "title": "راه آهن قزوین - زنجان",
-      "subtitle": "1395",
-      "url": "project/30",
-      "image": "images\\portfolio\\30.jpg",
-      "categories": "railway bridge"
-    },
-    {
-      "title": "روکش آسفالت میاندشت عباس آباد",
-      "subtitle": "1396",
-      "url": "",
-      "image": "images\\portfolio\\logo.png",
-      "categories": "other"
-    },
-    {
-      "title": "روسازی بتنی منطقه یک آزاد راه تهران-شمال",
-      "subtitle": "1396",
-      "url": "project/32",
-      "image": "images\\portfolio\\32.jpg",
-      "categories": "road paving"
-    },
-    {
-      "title": "آزادراه اصفهاهن-شیراز (قطعه یک)",
-      "subtitle": "1398",
-      "url": "project/33",
-      "image": "images\\portfolio\\33.jpg",
-      "categories": "road"
-    }
-  ]
-},
-{
-  "_id": {
-    "$oid": "5c1abbf90ec2cd37d03e0e15"
+  {
+    "title": "مشارکت در تامین مالی، طراحی، احداث آزادراه کنار گذر غربی قم",
+    "subtitle": "1400",
+    "url": "project/34",
+    "image": "images\\project\\34\\1.jpg",
+    "categories": "road"
   },
-  "name": "project",
-  "lang": "fa",
-  "id": "6",
-  "title": "احداث قطعه 2 محور ازنا –شازند",
-  "employer": "وزارت راه و شهرسازی",
-  "observer": "مهندسین مشاور مشارا",
-  "start_year": "1374",
-  "end_year": "1382",
-  "details": "<p>1.500.000 متر مکعب خاکبرداری</p><p>1,200,000 متر مکعب خاکریزی</p><p>23.000 متر مکعب بتن ریزی</p><p>120.000 تن آسفالت</p>",
-  "status": "انجام شده",
-  "images": [
-    "\\images\\project\\6\\1.jpg",
-    "\\images\\project\\6\\2.jpg",
-    "\\images\\project\\6\\3.jpg",
-    "\\images\\project\\6\\4.jpg",
-    "\\images\\project\\6\\5.jpg"
-  ]
+  {
+    "title": "تکمیل باند دوم قطعه اول و احداث باند دوم قطعه سوم محور قدیم قم - تهران",
+    "subtitle": "1402",
+    "url": "project/35",
+    "image": "images\\project\\35\\1.jpg",
+    "categories": "road"
+  },
+  {
+    "title": "طراحی، تامین و اجرای خط دوم قطعه اول راه آهن قزوین - زنجان",
+    "subtitle": "1395",
+    "url": "project/36",
+    "image": "images\\project\\36\\1.jpg",
+    "categories": "rail road"
+  },
+  {
+    "title": "اجرای عملیات خاکی، جداول و کانال‌های ۵۶۰ هکتاری پردیسان قم",
+    "subtitle": "1402",
+    "url": "project/37",
+    "image": "images\\project\\37\\1.jpg",
+    "categories": "others"
+  },
+  {
+    "title": "آماده‌سازی اراضی الحاقی ۵۴۵ هکتاری اسلام‌آباد قنوات",
+    "subtitle": "1403",
+    "url": "project/38",
+    "image": "images\\project\\38\\1.jpg",
+    "categories": "others"
+  },
+  {
+    "title": "عملیات تکمیلی قطعه D منطقه یک آزادراه تهران - شمال",
+    "subtitle": "1393",
+    "url": "project/39",
+    "image": "images\\project\\39\\1.jpg",
+    "categories": "tunnel"
+  },
+  {
+    "title": "عملیات روسازی قطعه اول (جنوبی) منطقه یک آزادراه تهران - شمال",
+    "subtitle": "1396",
+    "url": "project/40",
+    "image": "images\\project\\40\\1.jpg",
+    "categories": "pavement"
+  },
+  {
+    "title": "آزادراه اصفهان - شیراز (قطعه یک)",
+    "subtitle": "1398",
+    "url": "project/41",
+    "image": "images\\project\\41\\1.jpg",
+    "categories": "road"
+  },
+  {
+    "title": "تکمیل زیرسازه و روسازه و اجرای عرشه قطار شهری کرمانشاه (M2 تا M6)",
+    "subtitle": "1393",
+    "url": "project/42",
+    "image": "images\\project\\42\\1.jpg",
+    "categories": "bridge"
+  },
+  {
+    "title": "احداث بخشی از راه‌های جایگزین سد سردشت",
+    "subtitle": "1392",
+    "url": "project/43",
+    "image": "images\\project\\43\\1.jpg",
+    "categories": "road"
+  },
+  {
+    "title": "نوسازی و بهسازی محور شاهرود - میاندشت (EPC)",
+    "subtitle": "1387",
+    "url": "",
+    "image": "images\\portfolio\\logo.png",
+    "categories": "road"
+  },
+  {
+    "title": "زیرسازی قطعه ۵-ب راه‌آهن غرب کشور",
+    "subtitle": "1388",
+    "url": "project/45",
+    "image": "images\\project\\45\\1.jpg",
+    "categories": "rail road"
+  },
+  {
+    "title": "احداث محور یزد - ابرکوه - سورمق (قطعات ۱ و ۳ و کمربندی ابرکوه)",
+    "subtitle": "1383",
+    "url": "project/46",
+    "image": "images\\project\\46\\1.jpg",
+    "categories": "road"
+  },
+  {
+    "title": "احداث راه دسترسی سد داریان",
+    "subtitle": "1387",
+    "url": "project/47",
+    "image": "images\\project\\47\\1.jpg",
+    "categories": "road"
+  },
+  {
+    "title": "تحکیم بستر و عملیات شمع‌ریزی زمین نیروگاه غرب کارون",
+    "subtitle": "1393",
+    "url": "project/48",
+    "image": "images\\project\\48\\1.jpg",
+    "categories": "others"
+  },
+  {
+    "title": "احداث ۱۰ فقره محوطه سرچاهی در میدان نفتی آزادگان جنوبی",
+    "subtitle": "1393",
+    "url": "project/49",
+    "image": "images\\project\\49\\1.jpg",
+    "categories": "pipeline"
+  },
+  {
+    "title": "احداث قطعه اول راه دسترسی به سد بختیاری",
+    "subtitle": "1390",
+    "url": "project/50",
+    "image": "images\\project\\50\\1.jpg",
+    "categories": "road"
+  },
+  {
+    "title": "احداث راه دسترسی و خط لوله انتقال آب همدان از سد تالوار",
+    "subtitle": "1386",
+    "url": "project/51",
+    "image": "images\\project\\51\\1.jpg",
+    "categories": "pipeline"
+  },
+  {
+    "title": "احداث قطعه ۷-الف بزرگراه میاندوآب - کرمانشاه",
+    "subtitle": "1386",
+    "url": "project/52",
+    "image": "images\\project\\52\\1.jpg",
+    "categories": "road"
+  },
+  {
+    "title": "عملیات زیرسازی راه‌آهن نظامیه - میاندشت + عملیات تکمیلی",
+    "subtitle": "1383",
+    "url": "project/53",
+    "image": "images\\project\\53\\1.jpg",
+    "categories": "rail road"
+  },
+  {
+    "title": "احداث محور سیرجان - کرمان (قطعه ۲-ب) + عملیات تکمیلی",
+    "subtitle": "1383",
+    "url": "project/54",
+    "image": "images\\project\\54\\1.jpg",
+    "categories": "road"
+  },
+  {
+    "title": "احداث محور سیرجان - کرمان (قطعه ۴-الف) + عملیات تکمیلی",
+    "subtitle": "1379",
+    "url": "project/55",
+    "image": "images\\project\\55\\1.jpg",
+    "categories": "road"
+  },
+  {
+    "title": "احداث جاده پیان (راه دسترسی سدهای حوزه کارون)",
+    "subtitle": "1382",
+    "url": "",
+    "image": "images\\portfolio\\logo.png",
+    "categories": "road"
+  },
+  {
+    "title": "زیرسازی قطعه ۱۲ راه‌آهن بافق - مشهد + عملیات تکمیلی",
+    "subtitle": "1380",
+    "url": "project/57",
+    "image": "images\\project\\57\\1.jpg",
+    "categories": "rail road"
+  },
+  {
+    "title": "احداث قطعه ۲ محور ازنا - شازند + عملیات تکمیلی",
+    "subtitle": "1374",
+    "url": "project/58",
+    "image": "images\\project\\58\\1.jpg",
+    "categories": "road"
+  },
+  {
+    "title": "احداث عوامل پروازی فرودگاه بین‌المللی لارستان",
+    "subtitle": "1375",
+    "url": "",
+    "image": "images\\portfolio\\logo.png",
+    "categories": "others"
+  }
+]
 },
 {
   "_id": {
@@ -356,27 +286,6 @@
   "phone": "(+98) 21 96862100",
   "fax": "<span dir='ltr'>(+98) 21 96862100 #9</span>",
   "email": "info@navdisrah.com"
-},
-{
-  "_id": {
-    "$oid": "5c1b85d22fd2091d5c295623"
-  },
-  "name": "project",
-  "lang": "fa",
-  "id": "7",
-  "title": "احداث عوامل پروایی فرودگاه بین المللی لارستان ",
-  "employer": "شرکت فرودگاه های کشور",
-  "observer": "مهندسین مشاور ایمن راه",
-  "start_year": "1375",
-  "end_year": "",
-  "details": "<p>احداث باند فرودگاه به عرض 45 متر باند و گریدینگ به عرض 60 متر و به طول 3/5  کیلومتر </p><p>احداث 4 عدد تاکسیوی های فرودگاه به عرض 40 متر و طول 210 متر</p><p>اجرای فنس پیرامونی و جاده های گشت زنی فرودگاه به طو ل 14 کیلومتر</p>",
-  "status": "انجام شده",
-  "images": [
-    "images\\project\\7\\1.png",
-    "images\\project\\7\\2.png",
-    "images\\project\\7\\3.png",
-    "images\\project\\7\\4.png"
-  ]
 },
 {
   "_id": {
@@ -554,469 +463,6 @@
 },
 {
   "_id": {
-    "$oid": "5c1b87742fd2091d5c295624"
-  },
-  "name": "project",
-  "lang": "fa",
-  "id": "9",
-  "title": " احداث محور سیرجان کرمان(قطعه 4-الف)",
-  "employer": "وزارت راه و شهرسازی",
-  "observer": "مهندسین مشاور تردد راه",
-  "start_year": "1379",
-  "end_year": "1384",
-  "details": "<p> 1.430.000 متر مکعب خاکبرداری</p><p>840.000 متر مکعب خاکریزی</p><p>16.000 متر مکعب بتن ریزی</p><p>70.000 تن آسفالت</p>",
-  "status": "انجام شده",
-  "images": [
-    "\\images\\project\\9\\1.jpg",
-    "\\images\\project\\9\\2.jpg",
-    "\\images\\project\\9\\3.jpg",
-    "\\images\\project\\9\\4.jpg",
-    "\\images\\project\\9\\5.jpg",
-    "\\images\\project\\9\\6.jpg",
-    "\\images\\project\\9\\7.jpg"
-  ]
-},
-{
-  "_id": {
-    "$oid": "5c1b8a7a2fd2091d5c295625"
-  },
-  "name": "project",
-  "lang": "fa",
-  "id": "10",
-  "title": "زیر سازی قطعه 12 راه آهن بافق-مشهد",
-  "employer": "وزارت راه و شهرسازی",
-  "observer": "مهندسین مشاور رهاب",
-  "start_year": "1380",
-  "end_year": "1383",
-  "details": "<p> 2.000.000 متر مکعب خاکبرداری</p><p>1.700.000 متر مکعب خاکریزی</p><p>23.000 متر مکعب بتن ریزی</p><p>70.000 تن آسفالت</p>",
-  "status": "انجام شده",
-  "images": [
-    "\\images\\project\\10\\1.jpg",
-    "\\images\\project\\10\\2.jpg",
-    "\\images\\project\\10\\3.jpg",
-    "\\images\\project\\10\\4.jpg",
-    "\\images\\project\\10\\5.jpg"
-  ]
-},
-{
-  "_id": {
-    "$oid": "5c1b8b502fd2091d5c295626"
-  },
-  "name": "project",
-  "lang": "fa",
-  "id": "11",
-  "title": "احداث جاده پیان (راه دسترسی سد های حوزه کارون)",
-  "employer": "شرکت توسعه منابع آب و نیروی ایران (آبنیرو)",
-  "observer": "مهندسین مشاور ایمن راه",
-  "start_year": "1382",
-  "end_year": "1385",
-  "details": "<p> 480.000 متر مکعب خاکبرداری</p><p>1.000.000 متر مکعب خاکریزی</p><p>11.000 متر مکعب بتن ریزی</p><p>70.000 تن آسفالت</p><p>150 تن کارهای فلزی</p>",
-  "status": "انجام شده",
-  "images": [
-    "\\images\\project\\11\\1.jpg",
-    "\\images\\project\\11\\2.jpg",
-    "\\images\\project\\11\\3.jpg"
-  ]
-},
-{
-  "_id": {
-    "$oid": "5c1b8eb92fd2091d5c295627"
-  },
-  "name": "project",
-  "lang": "fa",
-  "id": "12",
-  "title": "احداث محور سیرجان کرمان( قطعه 2-ب)",
-  "employer": "وزارت راه و شهرسازی",
-  "observer": "مهندسین مشاور تردد راه",
-  "start_year": "1383",
-  "end_year": "1388",
-  "details": "<p> 1.540.000 متر مکعب خاکبرداری</p><p>1.070.000 متر مکعب خاکریزی</p><p>45.000 متر مکعب بتن ریزی</p><p>120.000 تن آسفالت</p>",
-  "status": "انجام شده",
-  "images": [
-    "\\images\\project\\12\\1.jpg",
-    "\\images\\project\\12\\2.jpg",
-    "\\images\\project\\12\\3.jpg",
-    "\\images\\project\\12\\4.jpg",
-    "\\images\\project\\12\\5.jpg",
-    "\\images\\project\\12\\6.jpg",
-    "\\images\\project\\12\\7.jpg",
-    "\\images\\project\\12\\8.jpg",
-    "\\images\\project\\12\\9.jpg",
-    "\\images\\project\\12\\10.jpg",
-    "\\images\\project\\12\\11.jpg",
-    "\\images\\project\\12\\12.jpg",
-    "\\images\\project\\12\\13.jpg",
-    "\\images\\project\\12\\14.jpg"
-  ]
-},
-{
-  "_id": {
-    "$oid": "5c1b91392fd2091d5c29562a"
-  },
-  "name": "project",
-  "lang": "fa",
-  "id": "17",
-  "title": "احداث قطعه 7- الف بزرگراه میاندوآب-کرمانشاه+ پل ساتیله",
-  "employer": "وزارت راه و ترابری",
-  "observer": "مهندسین مشاور پاسیلو",
-  "start_year": "1386",
-  "end_year": "1392",
-  "details": "<p> 1.600.000 متر مکعب خاکبرداری</p><p>1.200.000 متر مکعب خاکریزی</p><p>36.000 متر مکعب بتن ریزی</p><p>230.000 تن آسفالت</p>",
-  "status": "انجام شده",
-  "images": [
-    "\\images\\project\\17\\1.jpg",
-    "\\images\\project\\17\\2.jpg",
-    "\\images\\project\\17\\3.jpg",
-    "\\images\\project\\17\\4.jpg",
-    "\\images\\project\\17\\5.jpg",
-    "\\images\\project\\17\\6.jpg",
-    "\\images\\project\\17\\7.jpg",
-    "\\images\\project\\17\\8.jpg",
-    "\\images\\project\\17\\9.jpg"
-  ]
-},
-{
-  "_id": {
-    "$oid": "5c1b92232fd2091d5c29562b"
-  },
-  "name": "project",
-  "lang": "fa",
-  "id": "18",
-  "title": "احداث راه دسترسی و خط لوله انتقال آب همدان ازسد تالوار",
-  "employer": "شرکت آب منطقه ای همدان",
-  "observer": "مهندسین مشاور مهاب قدس",
-  "start_year": "1386",
-  "end_year": "1393",
-  "details": "<p> 3.000.000 متر مکعب خاکبرداری</p><p>1.000.000 متر مکعب خاکریزی</p><p>22.000 متر مکعب بتن ریزی</p><p>28.000 متر طول لوله گذاری</p>",
-  "status": "انجام شده",
-  "images": [
-    "\\images\\project\\18\\1.jpg",
-    "\\images\\project\\18\\2.jpg",
-    "\\images\\project\\18\\3.jpg",
-    "\\images\\project\\18\\4.jpg",
-    "\\images\\project\\18\\5.jpg",
-    "\\images\\project\\18\\6.jpg",
-    "\\images\\project\\18\\7.jpg",
-    "\\images\\project\\18\\8.jpg",
-    "\\images\\project\\18\\9.jpg",
-    "\\images\\project\\18\\10.jpg",
-    "\\images\\project\\18\\11.jpg"
-  ]
-},
-{
-  "_id": {
-    "$oid": "5c1b90a32fd2091d5c295629"
-  },
-  "name": "project",
-  "lang": "fa",
-  "id": "14",
-  "title": "عملیات زیر سازی راه آهن نظامیه – میاندشت",
-  "employer": "وزارت راه و شهرسازی",
-  "observer": "مهندسین مشاور هراز راه",
-  "start_year": "1383",
-  "end_year": "1387",
-  "details": "<p> 1.200.000 متر مکعب خاکبرداری</p><p>1.130.000 متر مکعب خاکریزی</p><p>31.000 متر مکعب بتن ریزی</p><p>2.700 تن کار های فلزی</p>",
-  "status": "انجام شده",
-  "images": [
-    "\\images\\project\\14\\1.jpg",
-    "\\images\\project\\14\\2.jpg",
-    "\\images\\project\\14\\3.jpg",
-    "\\images\\project\\14\\4.jpg",
-    "\\images\\project\\14\\5.jpg",
-    "\\images\\project\\14\\6.jpg",
-    "\\images\\project\\14\\7.jpg",
-    "\\images\\project\\14\\8.jpg",
-    "\\images\\project\\14\\9.jpg",
-    "\\images\\project\\14\\10.jpg",
-    "\\images\\project\\14\\11.jpg",
-    "\\images\\project\\14\\12.jpg"
-  ]
-},
-{
-  "_id": {
-    "$oid": "5c1b93762fd2091d5c29562c"
-  },
-  "name": "project",
-  "lang": "fa",
-  "id": "19",
-  "title": " احداث راه دسترسی سد داریان",
-  "employer": "شرکت توسعه منابع آب و نیروی ایران (آبنیرو)",
-  "observer": "مهندسین مشاور بند آب",
-  "start_year": "1387",
-  "end_year": "1389",
-  "details": "<p> 880.000 متر مکعب عملیات خاکی</p><p>7.500 متر مکعب بتن ریزی</p><p>820 تن کارهای فلزی</p><p>500 متر اجرای تونل</p>",
-  "status": "انجام شده",
-  "images": [
-    "\\images\\project\\19\\1.jpg",
-    "\\images\\project\\19\\2.jpg",
-    "\\images\\project\\19\\3.jpg",
-    "\\images\\project\\19\\4.jpg",
-    "\\images\\project\\19\\5.jpg",
-    "\\images\\project\\19\\6.jpg",
-    "\\images\\project\\19\\7.jpg",
-    "\\images\\project\\19\\8.jpg",
-    "\\images\\project\\19\\9.jpg",
-    "\\images\\project\\19\\10.jpg",
-    "\\images\\project\\19\\11.jpg",
-    "\\images\\project\\19\\12.jpg",
-    "\\images\\project\\19\\13.jpg",
-    "\\images\\project\\19\\14.jpg"
-  ]
-},
-{
-  "_id": {
-    "$oid": "5c1b95a52fd2091d5c29562d"
-  },
-  "name": "project",
-  "lang": "fa",
-  "id": "20",
-  "title": "زیر سازی قطعه 5-ب راه آهن غرب کشور",
-  "employer": "وزارت راه و شهرسازی",
-  "observer": "مهندسین مشاور هگزا",
-  "start_year": "1388",
-  "end_year": "1396",
-  "details": "<p> 2.612.000 متر مکعب عملیات خاکی</p><p>53.000 متر مکعب بتن ریزی</p><p>5.300 متر مکعب کارهای فلزی</p><p>1.700 متر تونل</p><p>قطعه 5-ب راه آهن غرب کشور شامل 4 رشته تونل در مجموع به طول 1700 متر و 6 دستگاه پل بزرگ در مجموع 30 دهانه 25 متری می  باشد</p>",
-  "status": "انجام شده",
-  "images": [
-    "\\images\\project\\20\\1.jpg",
-    "\\images\\project\\20\\2.jpg",
-    "\\images\\project\\20\\3.jpg",
-    "\\images\\project\\20\\4.jpg",
-    "\\images\\project\\20\\5.jpg",
-    "\\images\\project\\20\\6.jpg",
-    "\\images\\project\\20\\7.jpg",
-    "\\images\\project\\20\\8.jpg",
-    "\\images\\project\\20\\9.jpg",
-    "\\images\\project\\20\\10.jpg",
-    "\\images\\project\\20\\11.jpg",
-    "\\images\\project\\20\\12.jpg",
-    "\\images\\project\\20\\13.jpg"
-  ]
-},
-{
-  "_id": {
-    "$oid": "5c1b97172fd2091d5c29562e"
-  },
-  "name": "project",
-  "lang": "fa",
-  "id": "21",
-  "title": "احداث قطعه اول راه دسترسی به سد بختیاری",
-  "employer": "شرکت توسعه منابع آب و نیروی ایران (آبنیرو)",
-  "observer": "مهندسین مشاور ره آور",
-  "start_year": "1390",
-  "end_year": "1392",
-  "details": "<p>25 کیلومتر نوسازی</p><p>20 کیلومتر بهسازی</p><p>1.000.000 متر مکعب عملیات خاکی</p><p> 100 دستگاه آبرو</p><p>100.000 تن آسفالت</p>",
-  "status": "انجام شده",
-  "images": [
-    "\\images\\project\\21\\1.jpg",
-    "\\images\\project\\21\\2.jpg",
-    "\\images\\project\\21\\3.jpg",
-    "\\images\\project\\21\\4.jpg",
-    "\\images\\project\\21\\5.jpg",
-    "\\images\\project\\21\\6.jpg"
-  ]
-},
-{
-  "_id": {
-    "$oid": "5c1b98842fd2091d5c29562f"
-  },
-  "name": "project",
-  "lang": "fa",
-  "id": "23",
-  "title": "احداث بخشی از راههای جایگزین سد سردشت",
-  "employer": "شرکت توسعه منابع آب و نیروی ایران (آبنیرو)",
-  "observer": "مهندسین مشاور راهیاب ملل",
-  "start_year": "1392",
-  "end_year": "1396",
-  "details": "<p> 1،544،000 متر مکعب عملیات خاکی</p><p> 916 متر طول حفاری شمع</p><p>1.118 تن آرماتوربندی</p><p> 41.157 متر مکعب بتن ریزی</p><p> 1.128 تن کارهای فولادی سنگین</p><p>34.000 تن آسفالت</p><p>723 مترمربع احداث ساختمان مسکونی</p><p>دارای یک دستگاه پل بزرگ به طول 378 متر و به ارتفاع 34 متر، عرشه از نوع تیر فلزی و تیرگزاری به روش پیش رانی می باشد.</p>",
-  "status": "انجام شده",
-  "images": [
-    "\\images\\project\\23\\1.jpg",
-    "\\images\\project\\23\\2.jpg",
-    "\\images\\project\\23\\3.jpg",
-    "\\images\\project\\23\\4.jpg",
-    "\\images\\project\\23\\5.jpg",
-    "\\images\\project\\23\\6.jpg",
-    "\\images\\project\\23\\7.jpg",
-    "\\images\\project\\23\\8.jpg",
-    "\\images\\project\\23\\9.jpg",
-    "\\images\\project\\23\\10.jpg"
-  ]
-},
-{
-  "_id": {
-    "$oid": "5c1b99a52fd2091d5c295630"
-  },
-  "name": "project",
-  "lang": "fa",
-  "id": "24",
-  "title": "احداث 10 فقره محوطه سرچاهی در میدان نفتی آزادگان جنوبی",
-  "employer": "شرکت مهندسی و توسعه نفت",
-  "observer": "",
-  "start_year": "1393",
-  "end_year": "1393",
-  "details": "<p> 401.500 متر مکعب عملیات خاکی</p><p> 1.483 تن آرماتوربندی</p><p> 17.400 متر مکعب بتن ریزی</p><p> 118.000 متر مکعب ساب ببیس</p><p>این پروژه شامل احداث 3 فقره محوطه سرچاهی با یک سلر، 3 فقره محوطه سرچاهی با دو سلر و 4 فقره محوطه سرچاهی با سه سلر و 11 کیلومتر راه دسترسی می باشد.</p>",
-  "status": "انجام شده",
-  "images": [
-    "\\images\\project\\24\\1.jpg",
-    "\\images\\project\\24\\2.jpg",
-    "\\images\\project\\24\\3.jpg",
-    "\\images\\project\\24\\4.jpg"
-  ]
-},
-{
-  "_id": {
-    "$oid": "5c1b8f3e2fd2091d5c295628"
-  },
-  "name": "project",
-  "lang": "fa",
-  "id": "13",
-  "title": " احداث محور یزد –ابرکوه- سورمق (قطعات 1و 3و کمربندی ابرکوه)",
-  "employer": "وزارت راه و ترابری",
-  "observer": "مهندسین مشاور پاسیلو",
-  "start_year": "1383",
-  "end_year": "1395",
-  "details": "<p> 3.900.000 متر مکعب خاکبرداری</p><p>2.800.000 متر مکعب خاکریزی</p><p>57.000 متر مکعب بتن ریزی</p><p>500.000 تن آسفالت</p>",
-  "status": "انجام شده",
-  "images": [
-    "\\images\\project\\13\\1.jpg",
-    "\\images\\project\\13\\2.jpg",
-    "\\images\\project\\13\\3.jpg",
-    "\\images\\project\\13\\4.jpg",
-    "\\images\\project\\13\\5.jpg",
-    "\\images\\project\\13\\6.jpg",
-    "\\images\\project\\13\\7.jpg",
-    "\\images\\project\\13\\8.jpg",
-    "\\images\\project\\13\\9.jpg",
-    "\\images\\project\\13\\10.jpg"
-  ]
-},
-{
-  "_id": {
-    "$oid": "5c1b9af52fd2091d5c295631"
-  },
-  "name": "project",
-  "lang": "fa",
-  "id": "25",
-  "title": "تکمیل زیرسازه، روسازه و اجرای عرشه بتنی قطار شهری کرمانشاه حدفاصل M2 تا M6",
-  "employer": " سازمان قطار شهری کرمانشاه- شرکت تام ایران خودرو",
-  "observer": "",
-  "start_year": "1393",
-  "end_year": "1395",
-  "details": "<p>تکمیل زیرسازه و روسازه 220 عدد  ستون و اجرای عرشه قطار شهری کرمانشاه حدفاصل ایستگاه M2 الی M6 به طول تقریبی 4 کیلومتر</p><p> 40.000 متر مکعب بتن ریزی</p><p> 5.170 تن آرماتوربندی</p><p> 73.000 متر مربع قالب بندی</p><p> 545 تن اجرای کابل های پس کشیده</p><p> 2850 متر طول حفاری شمع</p>",
-  "status": "انجام شده",
-  "images": [
-    "\\images\\project\\25\\1.jpg",
-    "\\images\\project\\25\\2.jpg",
-    "\\images\\project\\25\\3.jpg",
-    "\\images\\project\\25\\4.jpg",
-    "\\images\\project\\25\\5.jpg",
-    "\\images\\project\\25\\6.jpg"
-  ]
-},
-{
-  "_id": {
-    "$oid": "5c1b9f1c2fd2091d5c295632"
-  },
-  "name": "project",
-  "lang": "fa",
-  "id": "27",
-  "title": "عملیات تکمیلی قطعه D منطقه یک آزادراه تهران - شمال ",
-  "employer": "شرکت آزاد راه تهران- شمال",
-  "observer": "",
-  "start_year": "1394",
-  "end_year": "",
-  "details": "<p>10،000 تن آرماتوربندی</p>\n<p>425،000 متر مربع قالب بندی</p>\n<p>350،000 مترمکعب بتن ریزی</p>\n<p>85،000 مترمکعب حفاری</p>\n<p>420،000مترمربع عایق ژئوممبراین</p>\n<p>735،000 مترمکعب عملیات خاکی</p>\n<p>\n  تکمیل حفاری و اجرای لاینینگ بیش از 17کیلومتر تونل شامل تونل های شرقی،‌غربی،\n  تونل سرویس تالون و دسترسی های ماشین رو و آدم رو\n</p>\n",
-  "status": "انجام شده",
-  "images": [
-    "\\images\\project\\27\\1.jpg",
-    "\\images\\project\\27\\2.jpg",
-    "\\images\\project\\27\\3.jpg",
-    "\\images\\project\\27\\4.jpg",
-    "\\images\\project\\27\\5.jpg",
-    "\\images\\project\\27\\6.jpg",
-    "\\images\\project\\27\\7.jpg",
-    "\\images\\project\\27\\8.jpg",
-    "\\images\\project\\27\\9.jpg",
-    "\\images\\project\\27\\10.jpg",
-    "\\images\\project\\27\\11.jpg"
-  ]
-},
-{
-  "_id": {
-    "$oid": "5c1b9fdb2fd2091d5c295633"
-  },
-  "name": "project",
-  "lang": "fa",
-  "id": "28",
-  "title": "تحکیم بستر و عملیات شمع ریزی زمین نیروگاه غرب کارون",
-  "employer": "شرکت مهندسی و توسعه نفت",
-  "observer": "",
-  "start_year": "1394",
-  "end_year": "1395",
-  "details": "<p> 450.000 مترمکعب عملیات خاکی</p><p> 20.000 متر مکعب بتن ریزی</p><p> 2830تن آرماتوربندی</p>",
-  "status": "انجام شده",
-  "images": [
-    "\\images\\project\\28\\1.jpg",
-    "\\images\\project\\28\\2.jpg",
-    "\\images\\project\\28\\3.jpg",
-    "\\images\\project\\28\\4.jpg",
-    "\\images\\project\\28\\5.jpg",
-    "\\images\\project\\28\\6.jpg"
-  ]
-},
-{
-  "_id": {
-    "$oid": "5c1ba2202fd2091d5c295635"
-  },
-  "name": "project",
-  "lang": "fa",
-  "id": "32",
-  "title": " روسازی بتنی قطعه اول (جنوبی) منطقه یک آزادراه تهران شمال",
-  "employer": "شرکت آزاد راه تهران - شمال",
-  "observer": "",
-  "start_year": "1396",
-  "end_year": "",
-  "details": "<p>62.000 مترمربع قالب بندی</p>\n<p>4150 تن آرماتوربندی</p>\n<p>117.000 مترمکعب بتن ریزی</p>\n<p>51.000 مترمکعب بیس تثبیت شده با سیمان</p>\n<p>270.000 ژئوتکستایل</p>\n<p>\n  اجرای روسازی بتنی قطعه جنوبی منطقه یک آزادراه تهران شمال به طول 14 کیلومتر در\n  دو باند رفت و برگشت مجموعاً به عرض 22.6 متر\n</p>\n",
-  "status": "انجام شده",
-  "images": [
-    "\\images\\project\\32\\1.jpg",
-    "\\images\\project\\32\\2.jpg",
-    "\\images\\project\\32\\3.jpg",
-    "\\images\\project\\32\\4.jpg",
-    "\\images\\project\\32\\5.jpg"
-  ]
-},
-{
-  "_id": {
-    "$oid": "5c1ba13c2fd2091d5c295634"
-  },
-  "name": "project",
-  "lang": "fa",
-  "id": "30",
-  "title": "طراحی، تامین و اجرای خط دوم قطعه اول راه آهن قزوین - زنجان ",
-  "employer": " شرکت راه آهن جمهوری اسلامی ایران",
-  "observer": "",
-  "start_year": "1395",
-  "end_year": "",
-  "details": "<p>1.320.000 مترمکعب عملیات خاکی</p>\n<p>58.000 مترمربع قالب بندی</p>\n<p>18000 تن آرماتوربندی</p>\n<p>40.000 مترمکعب بتن ریزی</p>\n<p>172 دستگاه ابنیه فنی</p>\n<p>6.550 تن ریل</p>\n<p>136.000 مترمکعب بالاست</p>\n<p>90.400 قطعه تراورس</p>\n<p>35 دستگاه سوزن</p>\n<p>51 کیلومتر تامین و نصب کابل برق و فیبرنوری</p>\n",
-  "status": "دردست اجرا",
-  "images": [
-    "\\images\\project\\30\\1.jpg",
-    "\\images\\project\\30\\2.jpg",
-    "\\images\\project\\30\\3.jpg",
-    "\\images\\project\\30\\4.jpg",
-    "\\images\\project\\30\\5.jpg",
-    "\\images\\project\\30\\6.jpg",
-    "\\images\\project\\30\\7.jpg",
-    "\\images\\project\\30\\8.jpg",
-    "\\images\\project\\30\\9.jpg",
-    "\\images\\project\\30\\10.jpg",
-    "\\images\\project\\30\\11.jpg"
-  ]
-},
-{
-  "_id": {
     "$oid": "60a154e4146c9dc3233e0eef"
   },
   "name": "appreciations",
@@ -1136,25 +582,6 @@
       }
     ]
   }
-},
-{
-  "_id": {
-    "$oid": "60a73cea438f023bc857c608"
-  },
-  "name": "project",
-  "lang": "fa",
-  "id": "33",
-  "title": "آزادراه اصفهان- شیراز (قطعه یک)",
-  "employer": "شرکت راهسازی و عمران ایران",
-  "observer": "",
-  "start_year": "1398",
-  "end_year": "",
-  "details": "<p>2750 تن آرماتوربندی</p> <p>310.000 مترمکعب بتن ریزی</p> <p>372.1000 دسی متر مکعب اجرای درز</p> <p>79.000 دسی متر مکعب پر کردن درز با آیرولاستیک</p>",
-  "status": "درحال انجام",
-  "images": [
-    "\\images\\project\\33\\1.jpg",
-    "\\images\\project\\33\\2.jpg"
-  ]
 },
 {
   "_id": {
@@ -1440,236 +867,1170 @@
     }
   ],
   "list": [
-    {
-      "title": "Improvement of “Minab-Sadrak” Road",
-      "subtitle": "1985",
-      "url": "",
-      "image": "images\\portfolio\\logo.png",
-      "categories": "road"
-    },
-    {
-      "title": "Industrial Building of” Garmsar” Telecommunication Center",
-      "subtitle": "1992",
-      "url": "",
-      "image": "images\\portfolio\\logo.png",
-      "categories": "other"
-    },
-    {
-      "title": "Road & Landscaping for Iran Lean&Zinc Complex (Factory) ",
-      "subtitle": "1993",
-      "url": "",
-      "image": "images\\portfolio\\logo.png",
-      "categories": "other"
-    },
-    {
-      "title": "Industrial Waste Reservoir Dam",
-      "subtitle": "1992",
-      "url": "",
-      "image": "images\\portfolio\\logo.png",
-      "categories": "other"
-    },
-    {
-      "title": "7km of “Qazvin-Zanjan” Highway",
-      "subtitle": "1995",
-      "url": "",
-      "image": "images\\portfolio\\logo.png",
-      "categories": "road"
-    },
-    {
-      "title": "Access Road to “Ferro Aliaji” Industries Complex",
-      "subtitle": "1999",
-      "url": "project/6",
-      "image": "images\\portfolio\\6.jpg",
-      "categories": "road bridge"
-    },
-    {
-      "title": "“Larestan” International Airport Runway ",
-      "subtitle": "2004",
-      "url": "project/7",
-      "image": "images\\portfolio\\7.jpg",
-      "categories": "other"
-    },
-    {
-      "title": "راه ارتباطي  و پل زير گذر صنايع فرو آلياژي ",
-      "subtitle": "1378",
-      "url": "",
-      "image": "images\\portfolio\\logo.png",
-      "categories": "road bridge"
-    },
-    {
-      "title": "“Sirjan- Kerman” Main Road (part 4/A,2/B)",
-      "subtitle": "1379",
-      "url": "project/9",
-      "image": "images\\portfolio\\9.jpg",
-      "categories": "road bridge"
-    },
-    {
-      "title": "“Bafgh-Mashhad” (part 12) Railroad substructure ",
-      "subtitle": "2005",
-      "url": "project/10",
-      "image": "images\\portfolio\\10.jpg",
-      "categories": "railway bridge"
-    },
-    {
-      "title": "Access way to “Pian” Dam",
-      "subtitle": "2005",
-      "url": "project/11",
-      "image": "images\\portfolio\\11.jpg",
-      "categories": "road"
-    },
-    {
-      "title": "راه سيرجان - كرمان",
-      "subtitle": "1383",
-      "url": "project/12",
-      "image": "images\\portfolio\\12.jpg",
-      "categories": "bridge"
-    },
-    {
-      "title": "“Yazd-Abarkooh-Sourmagh” Main Road",
-      "subtitle": "2016",
-      "url": "project/13",
-      "image": "images\\portfolio\\13.jpg",
-      "categories": "road bridge"
-    },
-    {
-      "title": "“Nezamieh-Miandasht” Sideway Railroad substructure",
-      "subtitle": "2009",
-      "url": "project/14",
-      "image": "images\\portfolio\\14.jpg",
-      "categories": "railway"
-    },
-    {
-      "title": "تقاطعهاي قدمگاه ،فرودگاه و مالك آباد در استان مرکزی",
-      "subtitle": "1386",
-      "url": "images\\portfolio\\logo.png",
-      "image": "images\\portfolio\\15.jpg",
-      "categories": "bridge"
-    },
-    {
-      "title": "“Azna –shazand” Main Road (part 2)",
-      "subtitle": "2005",
-      "url": "",
-      "image": "images\\portfolio\\logo.png",
-      "categories": "road"
-    },
-    {
-      "title": "بزرگراه كرمانشاه  -  مياندوآب ",
-      "subtitle": "1386",
-      "url": "project/17",
-      "image": "images\\portfolio\\17.jpg",
-      "categories": "road bridge"
-    },
-    {
-      "title": "Access Road and Water Pipeline to the city of “Hamedan” (Section1)",
-      "subtitle": "2014",
-      "url": "project/18",
-      "image": "images\\portfolio\\18.jpg",
-      "categories": "pipeline"
-    },
-    {
-      "title": "Access Road to “Darian” Dam",
-      "subtitle": "2010",
-      "url": "project/19",
-      "image": "images\\portfolio\\19.jpg",
-      "categories": "road bridge tunnel"
-    },
-    {
-      "title": "زير سازي راه آهن غرب كشور",
-      "subtitle": "1388",
-      "url": "project/20",
-      "image": "images\\portfolio\\20.jpg",
-      "categories": "railway bridge tunnel"
-    },
-    {
-      "title": "Access Road to Bakhtiyari Dam (part 1)",
-      "subtitle": "2014",
-      "url": "project/21",
-      "image": "images\\portfolio\\21.jpg",
-      "categories": "road"
-    },
-    {
-      "title": "بزرگراه تفت - ابرکوه- سورمق",
-      "subtitle": "1390",
-      "url": "",
-      "image": "images\\portfolio\\logo.png",
-      "categories": "road"
-    },
-    {
-      "title": " راه سد سردشت",
-      "subtitle": "1392",
-      "url": "project/23",
-      "image": "images\\portfolio\\23.jpg",
-      "categories": "road bridge"
-    },
-    {
-      "title": "Construction of 10 Wellpad in South “Azadegan”\n Oil Field",
-      "subtitle": "2015",
-      "url": "project/24",
-      "image": "images\\portfolio\\24.jpg",
-      "categories": "other"
-    },
-    {
-      "title": "Construction of Infrastructure & Topside Structure of LRT of “Kermanshah” city",
-      "subtitle": "2017",
-      "url": "project/25",
-      "image": "images\\portfolio\\25.jpg",
-      "categories": "railway bridge"
-    },
-    {
-      "title": "Construction of Second Band of \n“Babameydan-Behbahan” Highway (Section III)",
-      "subtitle": "2019",
-      "url": "",
-      "image": "images\\portfolio\\logo.png",
-      "categories": "road"
-    },
-    {
-      "title": "“Tehran- Shomal” Freeway- Lot D (Taloon Tunnel)",
-      "subtitle": "2020",
-      "url": "project/27",
-      "image": "images\\portfolio\\27.jpg",
-      "categories": "road bridge tunnel"
-    },
-    {
-      "title": "West “Karun” Power Plant & Facilities Soil Improvement & Piling Project in “Ahvaz”",
-      "subtitle": "2016",
-      "url": "project/28",
-      "image": "images\\portfolio\\28.png",
-      "categories": "other"
-    },
-    {
-      "title": "Replacement Road of “Sardasht” Dam",
-      "subtitle": "2017",
-      "url": "",
-      "image": "images\\portfolio\\logo.png",
-      "categories": "road"
-    },
-    {
-      "title": "Second Line Of “Gazvin-Zanjan” Railroad - Lot 1(EPC)",
-      "subtitle": "",
-      "url": "project/30",
-      "image": "images\\portfolio\\30.jpg",
-      "categories": "railway bridge"
-    },
-    {
-      "title": "روکش آسفالت میاندشت عباس آباد",
-      "subtitle": "1396",
-      "url": "",
-      "image": "images\\portfolio\\logo.png",
-      "categories": "other"
-    },
-    {
-      "title": "Concrete Pavement of “Tehran- Shomal” Freeway\n (Lot 1)",
-      "subtitle": "2020",
-      "url": "project/32",
-      "image": "images\\portfolio\\32.jpg",
-      "categories": "road paving"
-    },
-    {
-      "title": "Concrete Pavement of “Esfahan-Shiraz” Freeway (Lot 1)",
-      "subtitle": "",
-      "url": "project/33",
-      "image": "",
-      "categories": "road"
-    }
+  {
+    "title": "Participation in Financing, Design, and Construction of the Qom Western Bypass Freeway",
+    "subtitle": "2021",
+    "url": "project/34",
+    "image": "images\\project\\34\\1.jpg",
+    "categories": "road"
+  },
+  {
+    "title": "Completion of the Second Lane of Section One and Construction of the Second Lane of Section Three of the Old Qom–Tehran Road",
+    "subtitle": "2023",
+    "url": "project/35",
+    "image": "images\\project\\35\\1.jpg",
+    "categories": "road"
+  },
+  {
+    "title": "Design, Procurement, and Execution of the Second Track of Section One of the Qazvin–Zanjan Railway",
+    "subtitle": "2016",
+    "url": "project/36",
+    "image": "images\\project\\36\\1.jpg",
+    "categories": "rail road"
+  },
+  {
+    "title": "Earthworks, Curbs, and Drainage Channels for the 560-Hectare Pardisan Qom Development",
+    "subtitle": "2023",
+    "url": "project/37",
+    "image": "images\\project\\37\\1.jpg",
+    "categories": "others"
+  },
+  {
+    "title": "Preparation of the 545-Hectare Expansion Lands in Eslamabad Qanavat",
+    "subtitle": "2024",
+    "url": "project/38",
+    "image": "images\\project\\38\\1.jpg",
+    "categories": "others"
+  },
+  {
+    "title": "Completion of Section D, Zone 1 of the Tehran–North Freeway",
+    "subtitle": "2014",
+    "url": "project/39",
+    "image": "images\\project\\39\\1.jpg",
+    "categories": "tunnel"
+  },
+  {
+    "title": "Pavement Works for the First (Southern) Section of Zone 1, Tehran–North Freeway",
+    "subtitle": "2017",
+    "url": "project/40",
+    "image": "images\\project\\40\\1.jpg",
+    "categories": "pavement"
+  },
+  {
+    "title": "Isfahan–Shiraz Freeway (Section One)",
+    "subtitle": "2019",
+    "url": "project/41",
+    "image": "images\\project\\41\\1.jpg",
+    "categories": "road"
+  },
+  {
+    "title": "Completion of Substructure, Superstructure, and Deck of Kermanshah Metro (Stations M2 to M6)",
+    "subtitle": "2014",
+    "url": "project/42",
+    "image": "images\\project\\42\\1.jpg",
+    "categories": "bridge"
+  },
+  {
+    "title": "Construction of Alternate Roads for Sardasht Dam",
+    "subtitle": "2013",
+    "url": "project/43",
+    "image": "images\\project\\43\\1.jpg",
+    "categories": "road"
+  },
+  {
+    "title": "Rehabilitation and Improvement of Shahroud–Meyandasht Corridor (EPC)",
+    "subtitle": "2008",
+    "url": "",
+    "image": "images\\portfolio\\logo.png",
+    "categories": "road"
+  },
+  {
+    "title": "Substructure of Section 5-B of the Western Railway Corridor",
+    "subtitle": "2009",
+    "url": "project/45",
+    "image": "images\\project\\45\\1.jpg",
+    "categories": "rail road"
+  },
+  {
+    "title": "Construction of Yazd–Abarkouh–Sormagh Corridor (Sections 1, 3, and Abarkouh Bypass)",
+    "subtitle": "2004",
+    "url": "project/46",
+    "image": "images\\project\\46\\1.jpg",
+    "categories": "road"
+  },
+  {
+    "title": "Access Road to Daryan Dam",
+    "subtitle": "2008",
+    "url": "project/47",
+    "image": "images\\project\\47\\1.jpg",
+    "categories": "road"
+  },
+  {
+    "title": "Ground Stabilization and Pile Driving for West Karun Power Plant",
+    "subtitle": "2014",
+    "url": "project/48",
+    "image": "images\\project\\48\\1.jpg",
+    "categories": "others"
+  },
+  {
+    "title": "Construction of 10 Wellhead Sites in South Azadegan Oil Field",
+    "subtitle": "2014",
+    "url": "project/49",
+    "image": "images\\project\\49\\1.jpg",
+    "categories": "pipeline"
+  },
+  {
+    "title": "First Section of Access Road to Bakhtiari Dam",
+    "subtitle": "2011",
+    "url": "project/50",
+    "image": "images\\project\\50\\1.jpg",
+    "categories": "road"
+  },
+  {
+    "title": "Access Road and Water Pipeline from Talvar Dam to Hamedan",
+    "subtitle": "2007",
+    "url": "project/51",
+    "image": "images\\project\\51\\1.jpg",
+    "categories": "pipeline"
+  },
+  {
+    "title": "Section 7-A of the Miandoab–Kermanshah Freeway",
+    "subtitle": "2007",
+    "url": "project/52",
+    "image": "images\\project\\52\\1.jpg",
+    "categories": "road"
+  },
+  {
+    "title": "Substructure and Completion Works for Nezamieh–Meyandasht Railway",
+    "subtitle": "2004",
+    "url": "project/53",
+    "image": "images\\project\\53\\1.jpg",
+    "categories": "rail road"
+  },
+  {
+    "title": "Sirjan–Kerman Corridor (Section 2-B) + Completion Works",
+    "subtitle": "2004",
+    "url": "project/54",
+    "image": "images\\project\\54\\1.jpg",
+    "categories": "road"
+  },
+  {
+    "title": "Sirjan–Kerman Corridor (Section 4-A) + Completion Works",
+    "subtitle": "2000",
+    "url": "project/55",
+    "image": "images\\project\\55\\1.jpg",
+    "categories": "road"
+  },
+  {
+    "title": "Piyan Road (Access to Karun Basin Dams)",
+    "subtitle": "2003",
+    "url": "",
+    "image": "images\\portfolio\\logo.png",
+    "categories": "road"
+  },
+  {
+    "title": "Substructure of Section 12 of Bafgh–Mashhad Railway + Completion Works",
+    "subtitle": "2001",
+    "url": "project/57",
+    "image": "images\\project\\57\\1.jpg",
+    "categories": "rail road"
+  },
+  {
+    "title": "Section 2 of Azna–Shazand Corridor + Completion Works",
+    "subtitle": "1995",
+    "url": "project/58",
+    "image": "images\\project\\58\\1.jpg",
+    "categories": "road"
+  },
+  {
+    "title": "Runway and Taxiway Construction at Lar International Airport",
+    "subtitle": "1996",
+    "url": "",
+    "image": "images\\portfolio\\logo.png",
+    "categories": "others"
+  }
+]
+},
+{
+  "_id": { "$oid": "64b7f1a10ec2cd37d03e0e34" },
+  "name": "project",
+  "lang": "en",
+  "id": "34",
+  "title": "Participation in financing, design, and construction of the Qom Western Bypass Freeway",
+  "employer": "Construction and Development of Transportation Infrastructures Company",
+  "observer": "",
+  "start_year": "2021",
+  "end_year": "",
+  "details": "<p>2,750,000 m³ excavation</p><p>4,800,000 m³ embankment</p><p>11,333 tons of rebar</p><p>166,000 m³ concrete pouring</p><p>332,000 m³ concrete pavement</p><p>230,000 m³ stabilized base</p><p>70,000 tons of asphalt</p><p>18,290 m³ New Jersey barriers</p><p>2,383 tons of steel beams</p><p>2,568 tons of dowels and tie bars</p>",
+  "status": "In progress",
+  "images": [
+    "\\images\\project\\34\\1.jpg",
+    "\\images\\project\\34\\2.jpg",
+    "\\images\\project\\34\\3.jpg"
   ]
-}]
+},
+{
+  "_id": { "$oid": "64b7f1a20ec2cd37d03e0e35" },
+  "name": "project",
+  "lang": "en",
+  "id": "35",
+  "title": "Completion of the second lane of Section 1 and construction of the second lane of Section 3 of the old Qom–Tehran road",
+  "employer": "Construction and Development of Transportation Infrastructures Company",
+  "observer": "",
+  "start_year": "2023",
+  "end_year": "",
+  "details": "<p>975,000 m³ excavation</p><p>485,000 m³ embankment</p><p>1,120 m pile drilling</p><p>36,000 m³ concrete works</p><p>237,000 m³ sub-base</p><p>94,000 m³ base</p><p>195,000 tons of asphalt</p>",
+  "status": "In progress",
+  "images": [
+    "\\images\\project\\35\\1.jpg",
+    "\\images\\project\\35\\2.jpg",
+    "\\images\\project\\35\\3.jpg",
+    "\\images\\project\\35\\4.jpg",
+    "\\images\\project\\35\\5.jpg",
+	"\\images\\project\\35\\6.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1a30ec2cd37d03e0e36" },
+  "name": "project",
+  "lang": "en",
+  "id": "36",
+  "title": "Design, procurement, and execution of the second track of Section 1 of the Qazvin–Zanjan railway",
+  "employer": "Islamic Republic of Iran Railways – Infrastructure Deputy",
+  "observer": "",
+  "start_year": "2016",
+  "end_year": "",
+  "details": "<p>700,000 m³ excavation</p><p>620,000 m³ embankment</p><p>58,000 m² formwork</p><p>18,000 tons of rebar</p><p>40,000 m³ concrete pouring</p><p>6,550 tons of rail</p><p>172 technical structures</p><p>136,000 m³ ballast</p><p>90,400 concrete sleepers</p><p>35 turnouts</p><p>51 km of electrical and fiber optic cable</p>",
+  "status": "In progress",
+  "images": [
+    "\\images\\project\\36\\1.jpg",
+    "\\images\\project\\36\\2.jpg",
+    "\\images\\project\\36\\3.jpg",
+    "\\images\\project\\36\\4.jpg",
+    "\\images\\project\\36\\5.jpg",
+	"\\images\\project\\36\\6.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1a40ec2cd37d03e0e37" },
+  "name": "project",
+  "lang": "en",
+  "id": "37",
+  "title": "Earthworks, curbs, and canal construction for the 560-hectare Pardisan Qom development",
+  "employer": "Qom Province Road and Urban Development Department",
+  "observer": "",
+  "start_year": "2023",
+  "end_year": "",
+  "details": "<p>730,000 m³ excavation</p><p>320,000 m³ embankment</p><p>1,350,000 m² subgrade preparation</p><p>22,000 m³ trenching and channel excavation</p><p>47,000 m³ concrete pouring</p><p>540,000 concrete curbs</p><p>6,800 concrete covers</p><p>10,000 tons of asphalt</p>",
+  "status": "In progress",
+  "images": [
+    "\\images\\project\\37\\1.jpg",
+    "\\images\\project\\37\\2.jpg",
+    "\\images\\project\\37\\3.jpg",
+    "\\images\\project\\37\\4.jpg",
+    "\\images\\project\\37\\5.jpg",
+	"\\images\\project\\37\\6.jpg",
+	"\\images\\project\\37\\7.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1a50ec2cd37d03e0e38" },
+  "name": "project",
+  "lang": "en",
+  "id": "38",
+  "title": "Site preparation for the 545-hectare Islam Abad Qanavat expansion area",
+  "employer": "Qom Province Road and Urban Development Department",
+  "observer": "",
+  "start_year": "2024",
+  "end_year": "",
+  "details": "<p>2,250,000 m³ excavation</p><p>10,770,000 m³ embankment</p><p>10,800,000 m² subgrade preparation</p><p>373,000 concrete curbs</p><p>93,000 concrete drainage channels</p>",
+  "status": "In progress",
+  "images": [
+    "\\images\\project\\38\\1.jpg",
+    "\\images\\project\\38\\2.jpg",
+    "\\images\\project\\38\\3.jpg",
+    "\\images\\project\\38\\4.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1a60ec2cd37d03e0e39" },
+  "name": "project",
+  "lang": "en",
+  "id": "39",
+  "title": "Final works for Section D of Zone 1, Tehran–North Freeway",
+  "employer": "Tehran–North Freeway Company",
+  "observer": "",
+  "start_year": "2014",
+  "end_year": "",
+  "details": "<p>10,000 tons of rebar</p><p>228,000 m² formwork</p><p>350,000 m³ concrete pouring</p><p>85,000 m³ excavation</p><p>320,000 m² geomembrane waterproofing</p><p>735,000 m³ earthworks</p>",
+  "status": "Completed",
+  "images": [
+    "\\images\\project\\39\\1.jpg",
+    "\\images\\project\\39\\2.jpg",
+    "\\images\\project\\39\\3.jpg",
+    "\\images\\project\\39\\4.jpg",
+    "\\images\\project\\39\\5.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1a70ec2cd37d03e0e3a" },
+  "name": "project",
+  "lang": "en",
+  "id": "40",
+  "title": "Pavement works for the southern section of Zone 1, Tehran–North Freeway",
+  "employer": "Tehran–North Freeway Company",
+  "observer": "",
+  "start_year": "2017",
+  "end_year": "",
+  "details": "<p>22,000 m² formwork</p><p>4,150 tons of rebar</p><p>117,000 m³ concrete pouring</p><p>51,000 m³ cement-stabilized base</p><p>27,000 m² geotextile</p>",
+  "status": "Completed",
+  "images": [
+    "\\images\\project\\40\\1.jpg",
+    "\\images\\project\\40\\2.jpg",
+    "\\images\\project\\40\\3.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1a80ec2cd37d03e0e3b" },
+  "name": "project",
+  "lang": "en",
+  "id": "41",
+  "title": "Isfahan–Shiraz Freeway (Section 1)",
+  "employer": "Construction and Development of Transportation Infrastructures Company",
+  "observer": "",
+  "start_year": "2019",
+  "end_year": "",
+  "details": "<p>2,570 tons of rebar</p><p>310,000 m³ concrete pouring</p><p>372,000 dm³ joint installation</p><p>79,000 dm³ joint filling with Aerolastic</p>",
+  "status": "Completed",
+  "images": [
+    "\\images\\project\\41\\1.jpg",
+    "\\images\\project\\41\\2.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1a90ec2cd37d03e0e3c" },
+  "name": "project",
+  "lang": "en",
+  "id": "42",
+  "title": "Completion of substructure, superstructure, and deck of Kermanshah Urban Railway (M2 to M6)",
+  "employer": "Kermanshah Urban Railway Organization – TAM Iran Khodro Company",
+  "observer": "",
+  "start_year": "2014",
+  "end_year": "",
+  "details": "<p>220 columns</p><p>4 km track length</p><p>30,000 m³ concrete pouring</p><p>50,170 tons of rebar</p><p>73,000 m² formwork</p><p>545 tons of post-tensioning cable</p><p>2,850 m pile drilling</p>",
+  "status": "Completed",
+  "images": [
+    "\\images\\project\\42\\1.jpg",
+    "\\images\\project\\42\\2.jpg",
+    "\\images\\project\\42\\3.jpg",
+    "\\images\\project\\42\\4.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1aa0ec2cd37d03e0e3d" },
+  "name": "project",
+  "lang": "en",
+  "id": "43",
+  "title": "Construction of parts of the alternative roads for Sardasht Dam",
+  "employer": "Iran Water and Power Resources Development Company (IWPCo)",
+  "observer": "",
+  "start_year": "2013",
+  "end_year": "",
+  "details": "<p>1,095,000 m³ excavation</p><p>339,800 m³ embankment</p><p>916 m pile drilling</p><p>1,118 tons of rebar</p><p>41,157 m³ concrete pouring</p><p>10,128 tons of heavy steel structures</p><p>33,000 tons of asphalt</p><p>723 m² residential building construction</p>",
+  "status": "Completed",
+  "images": [
+    "\\images\\project\\43\\1.jpg",
+    "\\images\\project\\43\\2.jpg",
+    "\\images\\project\\43\\3.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1ab0ec2cd37d03e0e3e" },
+  "name": "project",
+  "lang": "en",
+  "id": "44",
+  "title": "Reconstruction and improvement of the Shahroud–Miyandasht road (EPC)",
+  "employer": "Road Maintenance and Transportation Organization",
+  "observer": "",
+  "start_year": "2008",
+  "end_year": "",
+  "details": "<p>2,500,000 m³ excavation</p><p>1,000,000 m³ embankment</p><p>500,000 m³ sub-base and base</p><p>50,000 m³ concrete pouring</p><p>600,000 tons of asphalt</p>",
+  "status": "Completed",
+  "images": [
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1ac0ec2cd37d03e0e3f" },
+  "name": "project",
+  "lang": "en",
+  "id": "45",
+  "title": "Substructure works for Section 5-B of the Western Iran Railway",
+  "employer": "Ministry of Roads and Urban Development",
+  "observer": "",
+  "start_year": "2009",
+  "end_year": "",
+  "details": "<p>202,300 m³ excavation</p><p>382,000 m³ embankment</p><p>53,000 m³ concrete pouring</p><p>5,300 tons of steel works</p><p>10,700 m tunnel construction</p>",
+  "status": "Completed",
+  "images": [
+    "\\images\\project\\45\\1.jpg",
+    "\\images\\project\\45\\2.jpg",
+    "\\images\\project\\45\\3.jpg",
+    "\\images\\project\\45\\4.jpg",
+    "\\images\\project\\45\\5.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1ad0ec2cd37d03e0e40" },
+  "name": "project",
+  "lang": "en",
+  "id": "46",
+  "title": "Construction of Yazd–Abarkooh–Sormaq Road (Sections 1 & 3 and Abarkooh Bypass)",
+  "employer": "Construction and Development of Transportation Infrastructures Company",
+  "observer": "",
+  "start_year": "2004",
+  "end_year": "",
+  "details": "<p>1,800,000 m³ excavation</p><p>2,400,000 m³ embankment</p><p>250,000 m³ sub-base and base</p><p>45,000 m³ concrete pouring</p><p>250,000 tons of asphalt</p>",
+  "status": "Completed",
+  "images": [
+    "\\images\\project\\46\\1.jpg",
+    "\\images\\project\\46\\2.jpg",
+    "\\images\\project\\46\\3.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1ae0ec2cd37d03e0e41" },
+  "name": "project",
+  "lang": "en",
+  "id": "47",
+  "title": "Construction of access road to Darian Dam",
+  "employer": "Iran Water and Power Resources Development Company (IWPCo)",
+  "observer": "",
+  "start_year": "2008",
+  "end_year": "",
+  "details": "<p>1,300,000 m³ excavation</p><p>1,100,000 m³ embankment</p><p>28,000 m³ concrete pouring</p><p>250,000 tons of asphalt</p><p>2,000 m tunnel construction</p>",
+  "status": "Completed",
+  "images": [
+    "\\images\\project\\47\\1.jpg",
+    "\\images\\project\\47\\2.jpg",
+    "\\images\\project\\47\\3.jpg",
+    "\\images\\project\\47\\4.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1af0ec2cd37d03e0e42" },
+  "name": "project",
+  "lang": "en",
+  "id": "48",
+  "title": "Ground improvement and piling works for West Karun Power Plant",
+  "employer": "Petroleum Engineering and Development Company (PEDEC)",
+  "observer": "",
+  "start_year": "2014",
+  "end_year": "",
+  "details": "<p>2,500,000 m³ excavation</p><p>2,000,000 m³ embankment</p><p>4,500 m pile drilling</p><p>25,000 m³ concrete pouring</p><p>3,000 tons of rebar</p>",
+  "status": "Completed",
+  "images": [
+    "\\images\\project\\48\\1.jpg",
+    "\\images\\project\\48\\2.jpg",
+    "\\images\\project\\48\\3.jpg",
+    "\\images\\project\\48\\4.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1b00ec2cd37d03e0e43" },
+  "name": "project",
+  "lang": "en",
+  "id": "49",
+  "title": "Construction of 10 wellhead sites in South Azadegan Oilfield",
+  "employer": "Petroleum Engineering and Development Company (PEDEC)",
+  "observer": "",
+  "start_year": "2014",
+  "end_year": "",
+  "details": "<p>1,500,000 m³ excavation</p><p>1,200,000 m³ embankment</p><p>23,000 m³ concrete pouring</p><p>120,000 tons of asphalt</p><p>10 wellhead sites</p>",
+  "status": "Completed",
+  "images": [
+    "\\images\\project\\49\\1.jpg",
+    "\\images\\project\\49\\2.jpg",
+    "\\images\\project\\49\\3.jpg",
+    "\\images\\project\\49\\4.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1b10ec2cd37d03e0e44" },
+  "name": "project",
+  "lang": "en",
+  "id": "50",
+  "title": "Construction of Section 1 of the access road to Bakhtiari Dam",
+  "employer": "Iran Water and Power Resources Development Company (IWPCo)",
+  "observer": "",
+  "start_year": "2011",
+  "end_year": "",
+  "details": "<p>2,000,000 m³ excavation</p><p>1,800,000 m³ embankment</p><p>45,000 m³ concrete pouring</p><p>250,000 tons of asphalt</p><p>2,500 m tunnel construction</p>",
+  "status": "Completed",
+  "images": [
+    "\\images\\project\\50\\1.jpg",
+    "\\images\\project\\50\\2.jpg",
+    "\\images\\project\\50\\3.jpg",
+    "\\images\\project\\50\\4.jpg",
+    "\\images\\project\\50\\5.jpg",
+    "\\images\\project\\50\\6.jpg",
+    "\\images\\project\\50\\7.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1b20ec2cd37d03e0e45" },
+  "name": "project",
+  "lang": "en",
+  "id": "51",
+  "title": "Construction of access road and water transmission pipeline from Talvar Dam to Hamedan",
+  "employer": "Iran Water and Power Resources Development Company (IWPCo)",
+  "observer": "",
+  "start_year": "2007",
+  "end_year": "",
+  "details": "<p>3,500,000 m³ excavation</p><p>2,700,000 m³ embankment</p><p>65,000 m³ concrete pouring</p><p>250,000 tons of asphalt</p><p>32 km steel pipeline</p>",
+  "status": "Completed",
+  "images": [
+    "\\images\\project\\51\\1.jpg",
+    "\\images\\project\\51\\2.jpg",
+    "\\images\\project\\51\\3.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1b30ec2cd37d03e0e46" },
+  "name": "project",
+  "lang": "en",
+  "id": "52",
+  "title": "Construction of Section 7-A of the Miandoab–Kermanshah Expressway",
+  "employer": "Construction and Development of Transportation Infrastructures Company",
+  "observer": "",
+  "start_year": "2007",
+  "end_year": "",
+  "details": "<p>1,400,000 m³ excavation</p><p>1,200,000 m³ embankment</p><p>45,000 m³ concrete pouring</p><p>220,000 tons of asphalt</p>",
+  "status": "Completed",
+  "images": [
+    "\\images\\project\\52\\1.jpg",
+    "\\images\\project\\52\\2.jpg",
+    "\\images\\project\\52\\3.jpg",
+    "\\images\\project\\52\\4.jpg",
+    "\\images\\project\\52\\5.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1b40ec2cd37d03e0e47" },
+  "name": "project",
+  "lang": "en",
+  "id": "53",
+  "title": "Substructure works for Nezamieh–Miyandasht Railway + Completion operations",
+  "employer": "Construction and Development of Transportation Infrastructures Company",
+  "observer": "",
+  "start_year": "2004",
+  "end_year": "",
+  "details": "<p>2,300,000 m³ excavation</p><p>2,000,000 m³ embankment</p><p>55,000 m³ concrete pouring</p><p>350,000 m³ ballast</p><p>90,000 concrete sleepers</p>",
+  "status": "Completed",
+  "images": [
+    "\\images\\project\\53\\1.jpg",
+    "\\images\\project\\53\\2.jpg",
+    "\\images\\project\\53\\3.jpg",
+    "\\images\\project\\53\\4.jpg",
+    "\\images\\project\\53\\5.jpg",
+	"\\images\\project\\53\\6.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1b50ec2cd37d03e0e48" },
+  "name": "project",
+  "lang": "en",
+  "id": "54",
+  "title": "Construction of Sirjan–Kerman Road (Section 2-B) + Completion operations",
+  "employer": "Construction and Development of Transportation Infrastructures Company",
+  "observer": "",
+  "start_year": "2004",
+  "end_year": "",
+  "details": "<p>1,600,000 m³ excavation</p><p>1,400,000 m³ embankment</p><p>40,000 m³ concrete pouring</p><p>210,000 tons of asphalt</p>",
+  "status": "Completed",
+  "images": [
+    "\\images\\project\\54\\1.jpg",
+    "\\images\\project\\54\\2.jpg",
+    "\\images\\project\\54\\3.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1b60ec2cd37d03e0e49" },
+  "name": "project",
+  "lang": "en",
+  "id": "55",
+  "title": "Construction of Sirjan–Kerman Road (Section 4-A) + Completion operations",
+  "employer": "Construction and Development of Transportation Infrastructures Company",
+  "observer": "",
+  "start_year": "2000",
+  "end_year": "",
+  "details": "<p>1,500,000 m³ excavation</p><p>1,300,000 m³ embankment</p><p>35,000 m³ concrete pouring</p><p>200,000 tons of asphalt</p>",
+  "status": "Completed",
+  "images": [
+    "\\images\\project\\55\\1.jpg",
+    "\\images\\project\\55\\2.jpg",
+    "\\images\\project\\55\\3.jpg",
+    "\\images\\project\\55\\4.jpg",
+    "\\images\\project\\55\\5.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1b70ec2cd37d03e0e4a" },
+  "name": "project",
+  "lang": "en",
+  "id": "56",
+  "title": "Construction of Piyan Road (access road to Karun Basin dams)",
+  "employer": "Iran Water and Power Resources Development Company (IWPCo)",
+  "observer": "",
+  "start_year": "2003",
+  "end_year": "",
+  "details": "<p>2,000,000 m³ excavation</p><p>1,800,000 m³ embankment</p><p>40,000 m³ concrete pouring</p><p>230,000 tons of asphalt</p><p>2,000 m tunnel construction</p>",
+  "status": "Completed",
+  "images": [
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1b80ec2cd37d03e0e4b" },
+  "name": "project",
+  "lang": "en",
+  "id": "57",
+  "title": "Substructure works for Section 12 of the Bafgh–Mashhad Railway + Completion operations",
+  "employer": "Construction and Development of Transportation Infrastructures Company",
+  "observer": "",
+  "start_year": "2001",
+  "end_year": "",
+  "details": "<p>2,100,000 m³ excavation</p><p>1,900,000 m³ embankment</p><p>50,000 m³ concrete pouring</p><p>300,000 m³ ballast</p><p>85,000 concrete sleepers</p>",
+  "status": "Completed",
+  "images": [
+    "\\images\\project\\57\\1.jpg",
+    "\\images\\project\\57\\2.jpg",
+    "\\images\\project\\57\\3.jpg",
+    "\\images\\project\\57\\4.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1b90ec2cd37d03e0e4c" },
+  "name": "project",
+  "lang": "en",
+  "id": "58",
+  "title": "Construction of Section 2 of Azna–Shazand Road + Completion operations",
+  "employer": "Ministry of Roads and Urban Development",
+  "observer": "",
+  "start_year": "1995",
+  "end_year": "2003",
+  "details": "<p>1,500,000 m³ excavation</p><p>1,200,000 m³ embankment</p><p>23,000 m³ concrete pouring</p><p>120,000 tons of asphalt</p>",
+  "status": "Completed",
+  "images": [
+    "\\images\\project\\58\\1.jpg",
+    "\\images\\project\\58\\2.jpg",
+    "\\images\\project\\58\\3.jpg",
+    "\\images\\project\\58\\4.jpg",
+    "\\images\\project\\58\\5.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1ba0ec2cd37d03e0e4d" },
+  "name": "project",
+  "lang": "en",
+  "id": "59",
+  "title": "Construction of airside infrastructure at Lar International Airport",
+  "employer": "Iran Airports Company",
+  "observer": "Imen Rah Consulting Engineers",
+  "start_year": "1996",
+  "end_year": "",
+  "details": "<p>Construction of a runway 45 meters wide with a 60-meter-wide grading corridor, 3.5 kilometers in length</p><p>Construction of 4 taxiways, each 30 meters wide and 210 meters long</p><p>Execution of perimeter fencing and 14 kilometers of airport patrol roads</p>",
+  "status": "Completed",
+  "images": [
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1a10ec2cd37d03e0e34" },
+  "name": "project",
+  "lang": "fa",
+  "id": "34",
+  "title": "مشارکت در تامین مالی، طراحی، احداث آزادراه کنار گذر غربی قم",
+  "employer": "شرکت ساخت و توسعه زیربناهای حمل و نقل کشور",
+  "observer": "",
+  "start_year": "1400",
+  "end_year": "",
+  "details": "<p>۲,۷۵۰,۰۰۰ متر مکعب خاکبرداری</p><p>۴,۸۰۰,۰۰۰ متر مکعب خاکریزی</p><p>۱۱,۳۳۳ تن آرماتوربندی</p><p>۱۶۶,۰۰۰ متر مکعب بتن‌ریزی</p><p>۳۳۲,۰۰۰ متر مکعب بتن رویه</p><p>۲۳۰,۰۰۰ متر مکعب اساس تثبیتی</p><p>۷۰,۰۰۰ تن آسفالت</p><p>۱۸,۲۹۰ متر مکعب نیوجرسی</p><p>۲,۳۸۳ تن تیر فلزی</p><p>۲,۵۶۸ تن داول و تای‌بار</p>",
+  "status": "در دست اجرا",
+  "images": [
+    "\\images\\project\\34\\1.jpg",
+    "\\images\\project\\34\\2.jpg",
+    "\\images\\project\\34\\3.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1a20ec2cd37d03e0e35" },
+  "name": "project",
+  "lang": "fa",
+  "id": "35",
+  "title": "تکمیل باند دوم قطعه اول و احداث باند دوم قطعه سوم محور قدیم قم - تهران",
+  "employer": "شرکت ساخت و توسعه زیربناهای حمل و نقل کشور",
+  "observer": "",
+  "start_year": "1402",
+  "end_year": "",
+  "details": "<p>۹۷۵,۰۰۰ متر مکعب خاکبرداری</p><p>۴۸۵,۰۰۰ متر مکعب خاکریزی</p><p>۱,۱۲۰ متر حفاری شمع</p><p>۳۶,۰۰۰ متر مکعب کارهای بتنی</p><p>۲۳۷,۰۰۰ متر مکعب زیر اساس</p><p>۹۴,۰۰۰ متر مکعب اساس</p><p>۱۹۵,۰۰۰ تن آسفالت</p>",
+  "status": "در دست اجرا",
+  "images": [
+    "\\images\\project\\35\\1.jpg",
+    "\\images\\project\\35\\2.jpg",
+    "\\images\\project\\35\\3.jpg",
+    "\\images\\project\\35\\4.jpg",
+    "\\images\\project\\35\\5.jpg",
+	"\\images\\project\\35\\6.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1a30ec2cd37d03e0e36" },
+  "name": "project",
+  "lang": "fa",
+  "id": "36",
+  "title": "طراحی، تامین و اجرای خط دوم قطعه اول راه آهن قزوین - زنجان",
+  "employer": "راه‌آهن جمهوری اسلامی ایران - معاونت فنی زیربنایی",
+  "observer": "",
+  "start_year": "1395",
+  "end_year": "",
+  "details": "<p>۷۰۰,۰۰۰ متر مکعب خاکبرداری</p><p>۶۲۰,۰۰۰ متر مکعب خاکریزی</p><p>۵۸,۰۰۰ متر مربع قالب‌بندی</p><p>۱۸,۰۰۰ تن آرماتور</p><p>۴۰,۰۰۰ متر مکعب بتن‌ریزی</p><p>۶,۵۵۰ تن ریل</p><p>۱۷۲ دستگاه ابنیه فنی</p><p>۱۳۶,۰۰۰ متر مکعب بالاست</p><p>۹۰,۴۰۰ قطعه تراورس</p><p>۳۵ دستگاه سوزن</p><p>۵۱ کیلومتر کابل برق و فیبر نوری</p>",
+  "status": "در دست اجرا",
+  "images": [
+    "\\images\\project\\36\\1.jpg",
+    "\\images\\project\\36\\2.jpg",
+    "\\images\\project\\36\\3.jpg",
+    "\\images\\project\\36\\4.jpg",
+    "\\images\\project\\36\\5.jpg",
+	"\\images\\project\\36\\6.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1a40ec2cd37d03e0e37" },
+  "name": "project",
+  "lang": "fa",
+  "id": "37",
+  "title": "اجرای عملیات خاکی، جداول و کانال‌های ۵۶۰ هکتاری پردیسان قم",
+  "employer": "اداره کل راه و شهرسازی استان قم",
+  "observer": "",
+  "start_year": "1402",
+  "end_year": "",
+  "details": "<p>۷۳۰,۰۰۰ متر مکعب خاکبرداری</p><p>۳۲۰,۰۰۰ متر مکعب خاکریزی</p><p>۱,۳۵۰,۰۰۰ متر مربع بستر سازی</p><p>۲۲,۰۰۰ متر مکعب پی‌کنی و کانال‌کنی</p><p>۴۷,۰۰۰ متر مکعب بتن‌ریزی</p><p>۵۴۰,۰۰۰ عدد جدول بتنی</p><p>۶,۸۰۰ عدد درپوش بتنی</p><p>۱۰,۰۰۰ تن آسفالت</p>",
+  "status": "در دست اجرا",
+  "images": [
+    "\\images\\project\\37\\1.jpg",
+    "\\images\\project\\37\\2.jpg",
+    "\\images\\project\\37\\3.jpg",
+    "\\images\\project\\37\\4.jpg",
+    "\\images\\project\\37\\5.jpg",
+	"\\images\\project\\37\\6.jpg",
+	"\\images\\project\\37\\7.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1a50ec2cd37d03e0e38" },
+  "name": "project",
+  "lang": "fa",
+  "id": "38",
+  "title": "آماده‌سازی اراضی الحاقی ۵۴۵ هکتاری اسلام‌آباد قنوات",
+  "employer": "اداره کل راه و شهرسازی استان قم",
+  "observer": "",
+  "start_year": "1403",
+  "end_year": "",
+  "details": "<p>۲,۲۵۰,۰۰۰ متر مکعب خاکبرداری</p><p>۱۰,۷۷۰,۰۰۰ متر مکعب خاکریزی</p><p>۱۰,۸۰۰,۰۰۰ متر مربع بستر سازی</p><p>۳۷۳,۰۰۰ عدد جدول بتنی</p><p>۹۳,۰۰۰ عدد کانیوو بتنی</p>",
+  "status": "در دست اجرا",
+  "images": [
+    "\\images\\project\\38\\1.jpg",
+    "\\images\\project\\38\\2.jpg",
+    "\\images\\project\\38\\3.jpg",
+    "\\images\\project\\38\\4.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1a60ec2cd37d03e0e39" },
+  "name": "project",
+  "lang": "fa",
+  "id": "39",
+  "title": "عملیات تکمیلی قطعه D منطقه یک آزادراه تهران - شمال",
+  "employer": "شرکت آزادراه تهران - شمال",
+  "observer": "",
+  "start_year": "1393",
+  "end_year": "",
+  "details": "<p>۱۰,۰۰۰ تن آرماتوربندی</p><p>۲۲۸,۰۰۰ متر مربع قالب‌بندی</p><p>۳۵۰,۰۰۰ متر مکعب بتن‌ریزی</p><p>۸۵,۰۰۰ متر مکعب حفاری</p><p>۳۲۰,۰۰۰ متر مربع عایق ژئوممبران</p><p>۷۳۵,۰۰۰ متر مکعب عملیات خاکی</p>",
+  "status": "انجام شده",
+  "images": [
+    "\\images\\project\\39\\1.jpg",
+    "\\images\\project\\39\\2.jpg",
+    "\\images\\project\\39\\3.jpg",
+    "\\images\\project\\39\\4.jpg",
+    "\\images\\project\\39\\5.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1a70ec2cd37d03e0e3a" },
+  "name": "project",
+  "lang": "fa",
+  "id": "40",
+  "title": "عملیات روسازی قطعه اول (جنوبی) منطقه یک آزادراه تهران - شمال",
+  "employer": "شرکت آزادراه تهران - شمال",
+  "observer": "",
+  "start_year": "1396",
+  "end_year": "",
+  "details": "<p>۲۲,۰۰۰ متر مربع قالب‌بندی</p><p>۴,۱۵۰ تن آرماتور</p><p>۱۱۷,۰۰۰ متر مکعب بتن‌ریزی</p><p>۵۱,۰۰۰ متر مکعب بيس تثبیت شده با سیمان</p><p>۲۷,۰۰۰ متر مربع ژئوتکستایل</p>",
+  "status": "انجام شده",
+  "images": [
+    "\\images\\project\\40\\1.jpg",
+    "\\images\\project\\40\\2.jpg",
+    "\\images\\project\\40\\3.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1a80ec2cd37d03e0e3b" },
+  "name": "project",
+  "lang": "fa",
+  "id": "41",
+  "title": "آزادراه اصفهان - شیراز (قطعه یک)",
+  "employer": "شرکت ساخت و توسعه زیربناهای حمل و نقل کشور",
+  "observer": "",
+  "start_year": "1398",
+  "end_year": "",
+  "details": "<p>۲,۵۷۰ تن آرماتور</p><p>۳۱۰,۰۰۰ متر مکعب بتن‌ریزی</p><p>۳۷۲,۰۰۰ دسیمتر مکعب اجرای درز</p><p>۷۹,۰۰۰ دسیمتر مکعب پر کردن درز با آیرولاستیک</p>",
+  "status": "انجام شده",
+  "images": [
+    "\\images\\project\\41\\1.jpg",
+    "\\images\\project\\41\\2.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1a90ec2cd37d03e0e3c" },
+  "name": "project",
+  "lang": "fa",
+  "id": "42",
+  "title": "تکمیل زیرسازه و روسازه و اجرای عرشه قطار شهری کرمانشاه (M2 تا M6)",
+  "employer": "سازمان قطار شهری کرمانشاه - شرکت تام ایران خودرو",
+  "observer": "",
+  "start_year": "1393",
+  "end_year": "",
+  "details": "<p>۲۲۰ ستون</p><p>۴ کیلومتر طول مسیر</p><p>۳۰,۰۰۰ متر مکعب بتن‌ریزی</p><p>۵۰,۱۷۰ تن آرماتوربندی</p><p>۷۳,۰۰۰ متر مربع قالب‌بندی</p><p>۵۴۵ تن کابل پس‌کشیده</p><p>۲,۸۵۰ متر حفاری شمع</p>",
+  "status": "انجام شده",
+  "images": [
+    "\\images\\project\\42\\1.jpg",
+    "\\images\\project\\42\\2.jpg",
+    "\\images\\project\\42\\3.jpg",
+    "\\images\\project\\42\\4.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1aa0ec2cd37d03e0e3d" },
+  "name": "project",
+  "lang": "fa",
+  "id": "43",
+  "title": "احداث بخشی از راه‌های جایگزین سد سردشت",
+  "employer": "شرکت توسعه منابع آب و نیروی ایران (آب نیرو)",
+  "observer": "",
+  "start_year": "1392",
+  "end_year": "",
+  "details": "<p>۱,۰۹۵,۰۰۰ متر مکعب خاکبرداری</p><p>۳۳۹,۸۰۰ متر مکعب خاکریزی</p><p>۹۱۶ متر حفاری شمع</p><p>۱,۱۱۸ تن آرماتوربندی</p><p>۴۱,۱۵۷ متر مکعب بتن‌ریزی</p><p>۱۰,۱۲۸ تن کارهای فولادی سنگین</p><p>۳۳,۰۰۰ تن آسفالت</p><p>۷۲۳ متر مربع احداث ساختمان مسکونی</p>",
+  "status": "انجام شده",
+  "images": [
+    "\\images\\project\\43\\1.jpg",
+    "\\images\\project\\43\\2.jpg",
+    "\\images\\project\\43\\3.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1ab0ec2cd37d03e0e3e" },
+  "name": "project",
+  "lang": "fa",
+  "id": "44",
+  "title": "نوسازی و بهسازی محور شاهرود - میاندشت (EPC)",
+  "employer": "سازمان راهداری و حمل و نقل جاده‌ای",
+  "observer": "",
+  "start_year": "1387",
+  "end_year": "",
+  "details": "<p>۲,۵۰۰,۰۰۰ متر مکعب خاکبرداری</p><p>۱,۰۰۰,۰۰۰ متر مکعب خاکریزی</p><p>۵۰۰,۰۰۰ متر مکعب زیراساس و اساس</p><p>۵۰,۰۰۰ متر مکعب بتن‌ریزی</p><p>۶۰۰,۰۰۰ تن آسفالت</p>",
+  "status": "انجام شده",
+  "images": [
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1ac0ec2cd37d03e0e3f" },
+  "name": "project",
+  "lang": "fa",
+  "id": "45",
+  "title": "زیرسازی قطعه ۵-ب راه‌آهن غرب کشور",
+  "employer": "وزارت راه و شهرسازی",
+  "observer": "",
+  "start_year": "1388",
+  "end_year": "",
+  "details": "<p>۲۰۲,۳۰۰ متر مکعب خاکبرداری</p><p>۳۸۲,۰۰۰ متر مکعب خاکریزی</p><p>۵۳,۰۰۰ متر مکعب بتن‌ریزی</p><p>۵,۳۰۰ تن کارهای فلزی</p><p>۱۰,۷۰۰ متر اجرای تونل</p>",
+  "status": "انجام شده",
+  "images": [
+    "\\images\\project\\45\\1.jpg",
+    "\\images\\project\\45\\2.jpg",
+    "\\images\\project\\45\\3.jpg",
+    "\\images\\project\\45\\4.jpg",
+    "\\images\\project\\45\\5.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1ad0ec2cd37d03e0e40" },
+  "name": "project",
+  "lang": "fa",
+  "id": "46",
+  "title": "احداث محور یزد - ابرکوه - سورمق (قطعات ۱ و ۳ و کمربندی ابرکوه)",
+  "employer": "شرکت ساخت و توسعه زیربناهای حمل و نقل کشور",
+  "observer": "",
+  "start_year": "1383",
+  "end_year": "",
+  "details": "<p>۱,۸۰۰,۰۰۰ متر مکعب خاکبرداری</p><p>۲,۴۰۰,۰۰۰ متر مکعب خاکریزی</p><p>۲۵۰,۰۰۰ متر مکعب زیراساس و اساس</p><p>۴۵,۰۰۰ متر مکعب بتن‌ریزی</p><p>۲۵۰,۰۰۰ تن آسفالت</p>",
+  "status": "انجام شده",
+  "images": [
+    "\\images\\project\\46\\1.jpg",
+    "\\images\\project\\46\\2.jpg",
+    "\\images\\project\\46\\3.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1ae0ec2cd37d03e0e41" },
+  "name": "project",
+  "lang": "fa",
+  "id": "47",
+  "title": "احداث راه دسترسی سد داریان",
+  "employer": "شرکت توسعه منابع آب و نیروی ایران (آب نیرو)",
+  "observer": "",
+  "start_year": "1387",
+  "end_year": "",
+  "details": "<p>۱,۳۰۰,۰۰۰ متر مکعب خاکبرداری</p><p>۱,۱۰۰,۰۰۰ متر مکعب خاکریزی</p><p>۲۸,۰۰۰ متر مکعب بتن‌ریزی</p><p>۲۵۰,۰۰۰ تن آسفالت</p><p>۲,۰۰۰ متر اجرای تونل</p>",
+  "status": "انجام شده",
+  "images": [
+    "\\images\\project\\47\\1.jpg",
+    "\\images\\project\\47\\2.jpg",
+    "\\images\\project\\47\\3.jpg",
+    "\\images\\project\\47\\4.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1af0ec2cd37d03e0e42" },
+  "name": "project",
+  "lang": "fa",
+  "id": "48",
+  "title": "تحکیم بستر و عملیات شمع‌ریزی زمین نیروگاه غرب کارون",
+  "employer": "شرکت مهندسی و توسعه نفت (متن)",
+  "observer": "",
+  "start_year": "1393",
+  "end_year": "",
+  "details": "<p>۲,۵۰۰,۰۰۰ متر مکعب خاکبرداری</p><p>۲,۰۰۰,۰۰۰ متر مکعب خاکریزی</p><p>۴,۵۰۰ متر حفاری شمع</p><p>۲۵,۰۰۰ متر مکعب بتن‌ریزی</p><p>۳,۰۰۰ تن آرماتوربندی</p>",
+  "status": "انجام شده",
+  "images": [
+    "\\images\\project\\48\\1.jpg",
+    "\\images\\project\\48\\2.jpg",
+    "\\images\\project\\48\\3.jpg",
+    "\\images\\project\\48\\4.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1b00ec2cd37d03e0e43" },
+  "name": "project",
+  "lang": "fa",
+  "id": "49",
+  "title": "احداث ۱۰ فقره محوطه سرچاهی در میدان نفتی آزادگان جنوبی",
+  "employer": "شرکت مهندسی و توسعه نفت (متن)",
+  "observer": "",
+  "start_year": "1393",
+  "end_year": "",
+  "details": "<p>۱,۵۰۰,۰۰۰ متر مکعب خاکبرداری</p><p>۱,۲۰۰,۰۰۰ متر مکعب خاکریزی</p><p>۲۳,۰۰۰ متر مکعب بتن‌ریزی</p><p>۱۲۰,۰۰۰ تن آسفالت</p><p>۱۰ محوطه سرچاهی</p>",
+  "status": "انجام شده",
+  "images": [
+    "\\images\\project\\49\\1.jpg",
+    "\\images\\project\\49\\2.jpg",
+    "\\images\\project\\49\\3.jpg",
+    "\\images\\project\\49\\4.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1b10ec2cd37d03e0e44" },
+  "name": "project",
+  "lang": "fa",
+  "id": "50",
+  "title": "احداث قطعه اول راه دسترسی به سد بختیاری",
+  "employer": "شرکت توسعه منابع آب و نیروی ایران (آب نیرو)",
+  "observer": "",
+  "start_year": "1390",
+  "end_year": "",
+  "details": "<p>۲,۰۰۰,۰۰۰ متر مکعب خاکبرداری</p><p>۱,۸۰۰,۰۰۰ متر مکعب خاکریزی</p><p>۴۵,۰۰۰ متر مکعب بتن‌ریزی</p><p>۲۵۰,۰۰۰ تن آسفالت</p><p>۲,۵۰۰ متر اجرای تونل</p>",
+  "status": "انجام شده",
+  "images": [
+    "\\images\\project\\50\\1.jpg",
+    "\\images\\project\\50\\2.jpg",
+    "\\images\\project\\50\\3.jpg",
+    "\\images\\project\\50\\4.jpg",
+    "\\images\\project\\50\\5.jpg",
+	"\\images\\project\\50\\6.jpg",
+	"\\images\\project\\50\\7.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1b20ec2cd37d03e0e45" },
+  "name": "project",
+  "lang": "fa",
+  "id": "51",
+  "title": "احداث راه دسترسی و خط لوله انتقال آب همدان از سد تالوار",
+  "employer": "شرکت توسعه منابع آب و نیروی ایران (آب نیرو)",
+  "observer": "",
+  "start_year": "1386",
+  "end_year": "",
+  "details": "<p>۳,۵۰۰,۰۰۰ متر مکعب خاکبرداری</p><p>۲,۷۰۰,۰۰۰ متر مکعب خاکریزی</p><p>۶۵,۰۰۰ متر مکعب بتن‌ریزی</p><p>۲۵۰,۰۰۰ تن آسفالت</p><p>۳۲ کیلومتر خط لوله فولادی</p>",
+  "status": "انجام شده",
+  "images": [
+    "\\images\\project\\51\\1.jpg",
+    "\\images\\project\\51\\2.jpg",
+    "\\images\\project\\51\\3.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1b30ec2cd37d03e0e46" },
+  "name": "project",
+  "lang": "fa",
+  "id": "52",
+  "title": "احداث قطعه ۷-الف بزرگراه میاندوآب - کرمانشاه",
+  "employer": "شرکت ساخت و توسعه زیربناهای حمل و نقل کشور",
+  "observer": "",
+  "start_year": "1386",
+  "end_year": "",
+  "details": "<p>۱,۴۰۰,۰۰۰ متر مکعب خاکبرداری</p><p>۱,۲۰۰,۰۰۰ متر مکعب خاکریزی</p><p>۴۵,۰۰۰ متر مکعب بتن‌ریزی</p><p>۲۲۰,۰۰۰ تن آسفالت</p>",
+  "status": "انجام شده",
+  "images": [
+    "\\images\\project\\52\\1.jpg",
+    "\\images\\project\\52\\2.jpg",
+    "\\images\\project\\52\\3.jpg",
+    "\\images\\project\\52\\4.jpg",
+    "\\images\\project\\52\\5.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1b40ec2cd37d03e0e47" },
+  "name": "project",
+  "lang": "fa",
+  "id": "53",
+  "title": "عملیات زیرسازی راه‌آهن نظامیه - میاندشت + عملیات تکمیلی",
+  "employer": "شرکت ساخت و توسعه زیربناهای حمل و نقل کشور",
+  "observer": "",
+  "start_year": "1383",
+  "end_year": "",
+  "details": "<p>۲,۳۰۰,۰۰۰ متر مکعب خاکبرداری</p><p>۲,۰۰۰,۰۰۰ متر مکعب خاکریزی</p><p>۵۵,۰۰۰ متر مکعب بتن‌ریزی</p><p>۳۵۰,۰۰۰ متر مکعب بالاست</p><p>۹۰,۰۰۰ عدد تراورس</p>",
+  "status": "انجام شده",
+  "images": [
+    "\\images\\project\\53\\1.jpg",
+    "\\images\\project\\53\\2.jpg",
+    "\\images\\project\\53\\3.jpg",
+    "\\images\\project\\53\\4.jpg",
+    "\\images\\project\\53\\5.jpg",
+	"\\images\\project\\53\\6.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1b50ec2cd37d03e0e48" },
+  "name": "project",
+  "lang": "fa",
+  "id": "54",
+  "title": "احداث محور سیرجان - کرمان (قطعه ۲-ب) + عملیات تکمیلی",
+  "employer": "شرکت ساخت و توسعه زیربناهای حمل و نقل کشور",
+  "observer": "",
+  "start_year": "1383",
+  "end_year": "",
+  "details": "<p>۱,۶۰۰,۰۰۰ متر مکعب خاکبرداری</p><p>۱,۴۰۰,۰۰۰ متر مکعب خاکریزی</p><p>۴۰,۰۰۰ متر مکعب بتن‌ریزی</p><p>۲۱۰,۰۰۰ تن آسفالت</p>",
+  "status": "انجام شده",
+  "images": [
+    "\\images\\project\\54\\1.jpg",
+    "\\images\\project\\54\\2.jpg",
+    "\\images\\project\\54\\3.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1b60ec2cd37d03e0e49" },
+  "name": "project",
+  "lang": "fa",
+  "id": "55",
+  "title": "احداث محور سیرجان - کرمان (قطعه ۴-الف) + عملیات تکمیلی",
+  "employer": "شرکت ساخت و توسعه زیربناهای حمل و نقل کشور",
+  "observer": "",
+  "start_year": "1379",
+  "end_year": "",
+  "details": "<p>۱,۵۰۰,۰۰۰ متر مکعب خاکبرداری</p><p>۱,۳۰۰,۰۰۰ متر مکعب خاکریزی</p><p>۳۵,۰۰۰ متر مکعب بتن‌ریزی</p><p>۲۰۰,۰۰۰ تن آسفالت</p>",
+  "status": "انجام شده",
+  "images": [
+    "\\images\\project\\55\\1.jpg",
+    "\\images\\project\\55\\2.jpg",
+    "\\images\\project\\55\\3.jpg",
+    "\\images\\project\\55\\4.jpg",
+    "\\images\\project\\55\\5.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1b70ec2cd37d03e0e4a" },
+  "name": "project",
+  "lang": "fa",
+  "id": "56",
+  "title": "احداث جاده پیان (راه دسترسی سدهای حوزه کارون)",
+  "employer": "شرکت توسعه منابع آب و نیروی ایران (آب نیرو)",
+  "observer": "",
+  "start_year": "1382",
+  "end_year": "",
+  "details": "<p>۲,۰۰۰,۰۰۰ متر مکعب خاکبرداری</p><p>۱,۸۰۰,۰۰۰ متر مکعب خاکریزی</p><p>۴۰,۰۰۰ متر مکعب بتن‌ریزی</p><p>۲۳۰,۰۰۰ تن آسفالت</p><p>۲,۰۰۰ متر اجرای تونل</p>",
+  "status": "انجام شده",
+  "images": [
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1b80ec2cd37d03e0e4b" },
+  "name": "project",
+  "lang": "fa",
+  "id": "57",
+  "title": "زیرسازی قطعه ۱۲ راه‌آهن بافق - مشهد + عملیات تکمیلی",
+  "employer": "شرکت ساخت و توسعه زیربناهای حمل و نقل کشور",
+  "observer": "",
+  "start_year": "1380",
+  "end_year": "",
+  "details": "<p>۲,۱۰۰,۰۰۰ متر مکعب خاکبرداری</p><p>۱,۹۰۰,۰۰۰ متر مکعب خاکریزی</p><p>۵۰,۰۰۰ متر مکعب بتن‌ریزی</p><p>۳۰۰,۰۰۰ متر مکعب بالاست</p><p>۸۵,۰۰۰ عدد تراورس</p>",
+  "status": "انجام شده",
+  "images": [
+    "\\images\\project\\57\\1.jpg",
+    "\\images\\project\\57\\2.jpg",
+    "\\images\\project\\57\\3.jpg",
+    "\\images\\project\\57\\4.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1b90ec2cd37d03e0e4c" },
+  "name": "project",
+  "lang": "fa",
+  "id": "58",
+  "title": "احداث قطعه ۲ محور ازنا - شازند + عملیات تکمیلی",
+  "employer": "وزارت راه و شهرسازی",
+  "observer": "",
+  "start_year": "1374",
+  "end_year": "1382",
+  "details": "<p>۱,۵۰۰,۰۰۰ متر مکعب خاکبرداری</p><p>۱,۲۰۰,۰۰۰ متر مکعب خاکریزی</p><p>۲۳,۰۰۰ متر مکعب بتن‌ریزی</p><p>۱۲۰,۰۰۰ تن آسفالت</p>",
+  "status": "انجام شده",
+  "images": [
+    "\\images\\project\\58\\1.jpg",
+    "\\images\\project\\58\\2.jpg",
+    "\\images\\project\\58\\3.jpg",
+    "\\images\\project\\58\\4.jpg",
+    "\\images\\project\\58\\5.jpg"
+  ]
+},
+{
+  "_id": { "$oid": "64b7f1ba0ec2cd37d03e0e4d" },
+  "name": "project",
+  "lang": "fa",
+  "id": "59",
+  "title": "احداث عوامل پروازی فرودگاه بین‌المللی لارستان",
+  "employer": "شرکت فرودگاه‌های کشور",
+  "observer": "مهندسین مشاور ایمن راه",
+  "start_year": "1375",
+  "end_year": "",
+  "details": "<p>احداث باند فرودگاه به عرض ۴۵ متر و کریدور به عرض ۶۰ متر به طول ۳.۵ کیلومتر</p><p>احداث ۴ عدد تاکسی‌وی به عرض ۳۰ متر و طول ۲۱۰ متر</p><p>اجرای فنس پیرامونی و جاده‌های گشت‌زنی فرودگاه به طول ۱۴ کیلومتر</p>",
+  "status": "انجام شده",
+  "images": [
+  ]
+}
+]
