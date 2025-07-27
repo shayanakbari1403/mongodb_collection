@@ -78,7 +78,7 @@
       "name": ".pipeline"
     },
     {
-      "title": "روسازی",
+      "title": "روسازی بتنی",
       "name": ".paving"
     },
     {
@@ -344,7 +344,7 @@
         "image": "images/work/6.jpg",
         "url": "projects?type=.paving",
         "alt-image": "روسازی",
-        "title": "روسازی",
+        "title": "روسازی بتنی",
         "desc": ""
       }
     ]
@@ -354,23 +354,33 @@
     "button_text": "جزئیات",
     "items": [
       {
-        "title": "خط دوم قطعه اول راه آهن قزوین - زنجان ",
-        "image": "images/portfolio/railway.jpg",
-        "alt-image": "طراحی، تامین و اجرای خط دوم قطعه اول راه آهن قزوین - زنجان ",
-        "url": "project/30"
-      },
-      {
-        "title": "روسازی بتنی در قطعه اول (‌جنوبی) منطقه یک آزاد راه تهران-شمال",
-        "image": "images/portfolio/32.jpg",
-        "alt-image": "عملیات روسازی بتنی در قطعه اول (‌جنوبی) منطقه یک آزاد راه تهران-شمال",
-        "url": "project/32"
-      },
-      {
-        "title": "عملیات تکمیلی و اجرایی قطعه D‌ منطقه یک آزاد راه تهران-شمال",
-        "image": "images/portfolio/27.jpg",
-        "alt-image": "عملیات تکمیلی و اجرایی قطعه D‌ منطقه یک آزاد راه تهران-شمال ( متمم )",
-        "url": "project/27"
-      }
+    "title": "آماده‌سازی اراضی الحاقی ۵۴۵ هکتاری اسلام‌آباد قنوات",
+    "subtitle": "1403",
+    "url": "project/38",
+    "image": "images\\project\\38\\1.jpg",
+    "categories": "others"
+	  },
+	  {
+		"title": "تکمیل باند دوم قطعه اول و احداث باند دوم قطعه سوم محور قدیم قم - تهران",
+		"subtitle": "1402",
+		"url": "project/35",
+		"image": "images\\project\\35\\1.jpg",
+		"categories": "road"
+	  },
+	  {
+		"title": "اجرای عملیات خاکی، جداول و کانال‌های ۵۶۰ هکتاری پردیسان قم",
+		"subtitle": "1402",
+		"url": "project/37",
+		"image": "images\\project\\37\\1.jpg",
+		"categories": "others"
+	  },
+	  {
+		"title": "مشارکت در تامین مالی، طراحی، احداث آزادراه کنار گذر غربی قم",
+		"subtitle": "1400",
+		"url": "project/34",
+		"image": "images\\project\\34\\1.jpg",
+		"categories": "paving"
+	  }
     ]
   },
   "features": {
@@ -650,23 +660,33 @@
     "button_text": "Details",
     "items": [
       {
-        "title": "Second Line Of “Gazvin-Zanjan” Railroad - Lot 1(EPC)",
-        "image": "images/portfolio/railway.jpg",
-        "alt-image": "Second Line Of “Gazvin-Zanjan” Railroad - Lot 1(EPC)",
-        "url": "project/30"
-      },
-      {
-        "title": "Concrete Pavement of “Tehran- Shomal” Freeway\n (Lot 1)",
-        "image": "images/portfolio/32.jpg",
-        "alt-image": "Concrete Pavement of “Tehran- Shomal” Freeway\n (Lot 1)",
-        "url": "project/32"
-      },
-      {
-        "title": "“Tehran- Shomal” Freeway- Lot D (Taloon Tunnel)",
-        "image": "images/portfolio/27.jpg",
-        "alt-image": "“Tehran- Shomal” Freeway- Lot D (Taloon Tunnel)",
-        "url": "project/27"
-      }
+		"title": "Preparation of the 545-Hectare Expansion Lands in Eslamabad Qanavat",
+		"subtitle": "2024",
+		"url": "project/38",
+		"image": "images\\project\\38\\1.jpg",
+		"categories": "others"
+	  },
+	  {
+		"title": "Completion of the Second Lane of Section One and Construction of the Second Lane of Section Three of the Old Qom–Tehran Road",
+		"subtitle": "2023",
+		"url": "project/35",
+		"image": "images\\project\\35\\1.jpg",
+		"categories": "road"
+	  },
+	  {
+		"title": "Earthworks, Curbs, and Drainage Channels for the 560-Hectare Pardisan Qom Development",
+		"subtitle": "2023",
+		"url": "project/37",
+		"image": "images\\project\\37\\1.jpg",
+		"categories": "others"
+	  },
+	  {
+		"title": "Participation in Financing, Design, and Construction of the Qom Western Bypass Freeway",
+		"subtitle": "2021",
+		"url": "project/34",
+		"image": "images\\project\\34\\1.jpg",
+		"categories": "paving"
+	  }
     ]
   },
   "features": {
