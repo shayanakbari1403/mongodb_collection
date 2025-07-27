@@ -307,42 +307,42 @@
     "items": [
       {
         "image": "images/work/1.jpg",
-        "url": "services/tunnel",
+        "url": "projects?type=.tunnel",
         "alt-image": "ساخت تونل",
         "title": "تونل",
         "desc": ""
       },
       {
         "image": "images/work/2.jpg",
-        "url": "services/road",
+        "url": "projects?type=.road",
         "alt-image": "ساخت جاده",
         "title": "جاده",
         "desc": ""
       },
       {
         "image": "images/work/3.jpg",
-        "url": "services/railway",
+        "url": "projects?type=.railway",
         "alt-image": "ساخت راه آهن",
         "title": "راه آهن",
         "desc": ""
       },
       {
         "image": "images/work/4.jpg",
-        "url": "services/bridge",
+        "url": "projects?type=.bridge",
         "alt-image": "ساخت پل",
         "title": "پل",
         "desc": ""
       },
       {
         "image": "images/work/5.jpg",
-        "url": "services/pipeline",
+        "url": "projects?type=.pipeline",
         "alt-image": "خط لوله",
         "title": "خط لوله",
         "desc": ""
       },
       {
         "image": "images/work/6.jpg",
-        "url": "services/paving",
+        "url": "projects?type=.paving",
         "alt-image": "روسازی",
         "title": "روسازی",
         "desc": ""
@@ -603,42 +603,42 @@
     "items": [
       {
         "image": "images/work/1.jpg",
-        "url": "services/tunnel",
+        "url": "projects?type=.tunnel",
         "alt-image": "Tunnel",
         "title": "Tunnel",
         "desc": ""
       },
       {
         "image": "images/work/2.jpg",
-        "url": "services/road",
+        "url": "projects?type=.road",
         "alt-image": "Road",
         "title": "Road",
         "desc": ""
       },
       {
         "image": "images/work/3.jpg",
-        "url": "services/railway",
+        "url": "projects?type=.railway",
         "alt-image": "Rail road",
         "title": "Rail road",
         "desc": ""
       },
       {
         "image": "images/work/4.jpg",
-        "url": "services/bridge",
+        "url": "projects?type=.bridge",
         "alt-image": "Bridge",
         "title": "Bridge",
         "desc": ""
       },
       {
         "image": "images/work/5.jpg",
-        "url": "services/pipeline",
+        "url": "projects?type=.pipeline",
         "alt-image": "Pipeline",
         "title": "Pipeline",
         "desc": ""
       },
       {
         "image": "images/work/6.jpg",
-        "url": "services/paving",
+        "url": "projects?type=.paving",
         "alt-image": "Pavement",
         "title": "Pavement",
         "desc": ""
