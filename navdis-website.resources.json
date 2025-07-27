@@ -640,7 +640,7 @@
         "image": "images/work/6.jpg",
         "url": "projects?type=.paving",
         "alt-image": "Pavement",
-        "title": "Pavement",
+        "title": "Concrete Pavement",
         "desc": ""
       }
     ]
@@ -854,7 +854,7 @@
       "name": ".pipeline"
     },
     {
-      "title": "Pavement",
+      "title": "Concrete Pavement",
       "name": ".paving"
     },
     {
